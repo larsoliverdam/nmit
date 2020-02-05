@@ -8,7 +8,7 @@ image: 08.jpg
 #### Student blogs
 <small> Semester 1 2020</small>
 
-*[Tester link](https://nmitresearchmethods.wordpress.com/)
+* [Tester link](https://nmitresearchmethods.wordpress.com/)
 
 #### The old RES701 blog 
 <small>February 2020</small>
