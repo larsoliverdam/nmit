@@ -2,7 +2,7 @@
 layout: page
 title: PRJ70x
 permalink: /PRJ70x/
-image: design-science.jpg
+image: 01.jpg
 ---
 
 #### Student blogs
