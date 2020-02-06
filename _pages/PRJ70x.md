@@ -2,7 +2,7 @@
 layout: page
 title: PRJ70x
 permalink: /PRJ70x/
-image: 08.jpg
+image: design-science.jpg
 ---
 
 #### Student blogs
@@ -10,7 +10,10 @@ image: 08.jpg
 
 * [Tester link](https://nmitresearchmethods.wordpress.com/)
 
-#### The old RES701 blog 
+#### The old PRJ70x blog 
 <small>February 2020</small>
 
-This is the new RES701 Class Blog Space. There might be some interesting and/or relevant information on the [Old RES701 blog](https://nmitresearchmethods.wordpress.com/).
+This is the new RES701 Class Blog Space, built for ongoing communications during the course.
+Moodle will act as the static course placeholder for assignments, dropboxes, etc.
+We are also in the process of buliding a new public site/platform built to connect employers and students for workplacements, internships, joboppotunities, etc. There wil also be information for employers - and other interested parties - regarding placement procedures, previous projects...
+During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
