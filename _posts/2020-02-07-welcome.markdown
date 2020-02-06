@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Welcome to the new Class Blog layout
+date:   2020-02-07 12:05:00 -1200
+image:  07.jpg
+tags:   [News]
+---
+
