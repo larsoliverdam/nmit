@@ -39,10 +39,10 @@ layout: default
 					</div>
 				</div>
 
-				<!-- <div class="post-body">
+					 <div class="post-body">
 					{{ content }}
 
-						<div class="post-share">
+						<!-- <div class="post-share">
 						<ul class="share-list list-reset">
 							<li class="share-item">
 								<a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
@@ -76,8 +76,8 @@ layout: default
 								</a>
 							</li>
 						</ul>
-					</div> 
-				</div> -->
+					</div> -->
+				</div> 
 
 				<div class="post-navigation">
 					{% if page.previous.url %}
@@ -97,7 +97,9 @@ layout: default
 			{% if site.disqus-identifier %}
 				{% include disqus-comments.html %}
 			{% endif %}
-	</article> /.post
+	</article> 
+	
+	<!-- /.post -->
 
 	<div class="col col-12 col-t-4">
 		{% include sidebar.html %}
