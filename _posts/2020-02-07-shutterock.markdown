@@ -21,4 +21,4 @@ You will work on a variety of creative JavaScript / C ++ projects to extend the 
 * have at least 2/3 years of work experience or / and very passionate about programming with relevant experience
 
 Ideally, you have experience building a C ++ extension for After Effect or another similar platform.
-If you fit this description, please send your CV and cover letter with emphasis on relevant experiences.
+If you fit this description, please send your CV and cover letter with emphasis on relevant experiences
