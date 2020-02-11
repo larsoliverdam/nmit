@@ -3,7 +3,7 @@ layout: post
 title:  BNZ Speed Networking
 date:   2020-02-12 12:10:00 -1200
 image:  bnz.jpg
-tags:   Events, News
+tags:   [Events][News]
 ---
 Bank of New Zealand is organising a local Nelson Speed Networking event Thursday March 19th, with the theme of Digital Technologies. The idea is to invite a number of local businesses and motivate them to embrace change through Digital Technologies. They would very much like 5-7 of our level 7 students to participate with their input.
 
