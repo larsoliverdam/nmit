@@ -4,7 +4,7 @@ title:  Welcome to the new Class Blog layout
 date:   2020-02-12 12:36:00 -1200
 sticky: true
 image:  07.jpg
-tags:   [News]
+tags:   News
 ---
 I have decided to embrace Jekyll on GitHub and have started a transition of my old WordPress blogs to this space. 
 There will probably be a few problems on the way, so please bear over with me during the transition. Commenting on the postings, for example, must be done using Disqus – and I have not fully tested the functionality yet. You can always send me an email (or tell me), if you experience problems with the interface, have comments that you cannot place, and/or you have suggestions of how to make it work :)

@@ -3,7 +3,7 @@ layout: post
 title:  Shutterock
 date:   2020-02-07 16:00:00 -1200
 image:  Shuttlerock.jpg
-tags:   [Jobs]
+tags:   Jobs
 ---
 We are looking for an experienced javascript / c++ developer who wants to work on our set of creative tools and take our production to the next level.
 
