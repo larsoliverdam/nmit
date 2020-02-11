@@ -6,6 +6,10 @@ gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-remote-theme"
 
+group :jekyll_plugins do
+    # other plugins here
+    gem 'jekyll-stickyposts'
+  end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
