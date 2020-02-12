@@ -9,8 +9,6 @@ We have had the following enquiry: We are a local software company looking to hi
 
 [Job description.](https://drive.google.com/file/d/1kKDAQNdyN_p1WixfGbNh1CrMAuPhZ_VD/view?usp=sharing)
 
-tamara@soliddocuments.com
-
-Thank you,
 Tamara Cartwright
 Co-Founder/Director
+tamara@soliddocuments.com
