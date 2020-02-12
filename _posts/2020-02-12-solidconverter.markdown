@@ -6,7 +6,8 @@ image:  solid.jpeg
 tags:   Jobs
 ---
 We have had the following enquiry: We are a local software company looking to hire a software support test engineer.
-[The job description.](/GitHub/docs/img/Solidconverter.pdf)
+
+[Job description.](/GitHub/docs/img/Solidconverter.pdf)
 
 tamara@soliddocuments.com
 
