@@ -3,10 +3,10 @@ layout: post
 title:  SolidDocuments Job Opportunity
 date:   2020-02-12 12:11:00 -1200
 image:  solid.jpeg
-tags:   News Jobs
+tags:   Jobs
 ---
 We have had the following enquiry: We are a local software company looking to hire a software support test engineer.
-[The job description.](/img/Solidconverter.pdf)
+[The job description.](/GitHub/docs/img/Solidconverter.pdf)
 
 tamara@soliddocuments.com
 
