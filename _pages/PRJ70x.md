@@ -15,7 +15,7 @@ image: 01.jpg
 
 Welcome to semester 1, 2020. I am Lars, and I will be the coordinator for the Project Paper.
 
-We are having our first session for student new to the paper on Friday,  of March. Everyone who currently enrolled in PRJ701/702 (not if you are starting in Semester 2, though) and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
+We are having our first session for student new to the paper on Friday, 28th of March. Everyone who currently enrolled in PRJ701/702 (not if you are starting in Semester 2, though) and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
 
 The way the information for this course is organised, is that corse descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This WordPress blog is our dynamic communication interface – including tips, links, guides and information about previous projects.
 
