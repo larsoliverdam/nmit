@@ -8,7 +8,9 @@ image: 01.jpg
 #### Student blogs
 <small> Semester 1 2020</small>
 
-* [Tester link](https://nmitresearchmethods.wordpress.com/)
+* [Albert](https://labone.home.blog/category/prj702/)
+* [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
+* [Oleg](https://sio2k.home.blog/prj701/)
 
 #### Welcome to Semester 1, 2020 
 <small>February 25 2020</small>
