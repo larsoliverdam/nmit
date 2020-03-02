@@ -6,7 +6,7 @@ sticky: true
 image:  07.jpg
 tags:   News
 ---
-With inspiration and help from @alikahwaji :camel: I have decided to embrace Jekyll on GitHub and have started a transition of my old WordPress blogs to this space.
+With inspiration and help from @alikahwaji I have decided to embrace Jekyll on GitHub and have started a transition of my old WordPress blogs to this space.
 There will probably be a few problems on the way, so please bear over with me during the transition. Commenting on the postings, for example, must be done using Disqus – and I have not fully tested the functionality yet. You can always send me an email (or tell me), if you experience problems with the interface, have comments that you cannot place, and/or you have suggestions of how to make it work :)
 
 Unfortunately, you will now have to get used to go into the specific course pages – they are up in the top menu. This front page is where I put news, announcements, etc. So, hopefully the positive effect of this new set-up, is, that you get more of an idea of what is happening across my courses. Especially when it comes to information about job opportunities, Internships and work placements.
