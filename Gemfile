@@ -8,7 +8,7 @@ gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
     # other plugins here
-    gem 'jekyll-stickyposts'
+    gem "jekyll-stickyposts"
   end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
