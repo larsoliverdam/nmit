@@ -2,10 +2,10 @@
 layout: post
 title:  Code Club
 date:   2020-03-04 14:30:00 -1200
-image:  Digital-Future.jpg
+image:  CodeClub.jpg
 tags:   News
 ---
-** We have received the following email:
+**We have received the following email:**
 
 My name is Michael Trengrove, I am the General Manager of the New Zealand registered charity Digital Future Aotearoa. Our core mission is to improve the digital capability of all New Zealanders and we achieve this through 3 key national programmes we run one of which is Code Club. Code Club offers free after school coding lessons in primary and intermediate schools supported by IT student and industry professionals. These clubs are free to attend and exists due to the amazing generosity of volunteers giving their time. We currently have 375 clubs that meet each week supported by 1000+ volunteers.
 
@@ -22,4 +22,4 @@ A club typically happens once per week and runs for 1 hour. We provide all the o
 Regards
 Michael
 
-** If you are interested in volunteering for this, please contact Trisha (trisha.krishnasamy@nmit.ac.nz).
+**If you are interested in volunteering for this, please contact Trisha (trisha.krishnasamy@nmit.ac.nz).**
