@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Code Club
+date:   2020-03-04 14:30:00 -1200
+image:  Digital-Future.jpg
+tags:   News
+---
+** We have received the following email:
+
+My name is Michael Trengrove, I am the General Manager of the New Zealand registered charity Digital Future Aotearoa. Our core mission is to improve the digital capability of all New Zealanders and we achieve this through 3 key national programmes we run one of which is Code Club. Code Club offers free after school coding lessons in primary and intermediate schools supported by IT student and industry professionals. These clubs are free to attend and exists due to the amazing generosity of volunteers giving their time. We currently have 375 clubs that meet each week supported by 1000+ volunteers.
+
+Part of Code Club's vision is to also increase the pipeline of students entering secondary school and choosing to study IT and ultimately take that into Tertiary study and onto industry jobs.
+
+We work with a number of tertiaries around the country, Auckland Uni, Canterbury Uni, Ara who all help encourage their students to volunteer for 1 hour a week for 1 or more school terms.
+
+Siobhan our national programme coordinator let me know this morning that an Intermediate School in Nelson recently registered a Code Club and has had more than 100 students sign up wishing to learn how to code. The school contacted us asking for advice on how to select students to cull but our response has been how can we support you to connect with additional volunteers in the city to help set up enough clubs in your school to cater for demand.
+
+Hence my phone call to you. We'd like to look at the opportunity to connect with interested students within NMIT who would like to 1) give back to the community in a meaningful way and 2) gain leadership skills they wouldn't get in the lecture theatre by working with younger students (8 - 13 y/o) and managing a Code Club.
+
+A club typically happens once per week and runs for 1 hour. We provide all the open source learning resources and a volunteer just needs 10 minutes before a club session to quickly read through the project before the students begin.
+
+Regards
+Michael
+
+** If you are interested in volunteering for this, please contact Trisha (trisha.krishnasamy@nmit.ac.nz).
