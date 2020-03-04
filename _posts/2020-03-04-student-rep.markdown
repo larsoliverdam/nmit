@@ -13,11 +13,11 @@ We usually have one or two students reps for each level of a programme. This cov
 
 Please nominate one student rep for your level.
 
-If you attend a Level 5 course, then send one email to me to nominate a student rep for Level 5.
-If you attend a Level 6 courses, then send one email to me to nominate a student rep for Level 6.
-If you attend a Level 7 courses, then send one email to me to nominate a student rep for Level 7.
-If you attend for Level 8  courses, then send one email to me to nominate a student rep for Level 8.
-You can nominate someone in your class or you can self nominate.  I would be happy to see last years student reps puts their hands up again as well
+* If you attend a Level 5 course, then send one email to me to nominate a student rep for Level 5.
+* If you attend a Level 6 courses, then send one email to me to nominate a student rep for Level 6.
+* If you attend a Level 7 courses, then send one email to me to nominate a student rep for Level 7.
+* If you attend for Level 8  courses, then send one email to me to nominate a student rep for Level 8.
+* You can nominate someone in your class or you can self nominate.  I would be happy to see last years student reps puts their hands up again as well
 
 Please email me (trisha.krishnasamy@nmit.ac.nz) with your nominations before Friday 13th March 2020.
 
