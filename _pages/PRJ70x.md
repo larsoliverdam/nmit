@@ -12,7 +12,7 @@ image: 01.jpg
 * [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
 * [Oleg](https://sio2k.home.blog/prj701/)
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
-* [Zhengning](prj701553549552.wordpress.com)
+* [Zhengning](https://prj701553549552.wordpress.com)
 
 #### Welcome to Semester 1, 2020 
 <small>February 25 2020</small>
