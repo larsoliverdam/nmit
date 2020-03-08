@@ -13,6 +13,7 @@ image: 01.jpg
 * [Oleg](https://sio2k.home.blog/prj701/)
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
 * [Zhengning](https://prj701553549552.wordpress.com)
+* [Bryce](https://bjrowedev.github.io/projectjournal/)
 
 #### Welcome to Semester 1, 2020 
 <small>February 25 2020</small>
