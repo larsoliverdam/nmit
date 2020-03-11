@@ -14,6 +14,7 @@ image: 01.jpg
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
 * [Zhengning](https://prj701553549552.wordpress.com)
 * [Bryce](https://bjrowedev.github.io/projectjournal/)
+* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
 
 #### Welcome to Semester 1, 2020 
 <small>February 25 2020</small>
