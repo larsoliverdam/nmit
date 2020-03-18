@@ -17,6 +17,7 @@ image: 01.jpg
 * [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
 * [Milton](https://prj701716603981.wordpress.com/)
 * [Sinhara](https://prj702sinharanmit.home.blog/)
+* [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
 #### Welcome to Semester 1, 2020 
 <small>February 25 2020</small>
