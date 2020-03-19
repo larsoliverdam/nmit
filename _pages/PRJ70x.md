@@ -10,13 +10,13 @@ image: 01.jpg
 
 * [Albert](https://labone.home.blog/category/prj702/)
 * [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
+* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
+* [Bryce](https://bjrowedev.github.io/projectjournal/)
 * [Oleg](https://sio2k.home.blog/prj701/)
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
-* [Zhengning](https://prj701553549552.wordpress.com)
-* [Bryce](https://bjrowedev.github.io/projectjournal/)
-* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
 * [Milton](https://prj701716603981.wordpress.com/)
 * [Sinhara](https://prj702sinharanmit.home.blog/)
+* [Zhengning](https://prj701553549552.wordpress.com)
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
 #### Welcome to Semester 1, 2020 
