@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Message for NET603 Students
+title:  NMIT ITS Job
 date:   2020-03-19 16:30:00 -1200
 image:  NMIT.jpg
 tags:   News Jobs
