@@ -5,7 +5,7 @@ date:   2020-03-19 16:30:00 -1200
 image:  NMIT.jpg
 tags:   News Jobs
 ---
-ITS at NMIT is looking for a Part timer IT student, (job hunter probably better than existing student availability wise). They would Would like them to work as regularly as able but at least 0.4 FTE for 1 – 2 months starting in the Easter term break.
+ITS at NMIT is looking for a Part timer IT student, (job hunter probably better than existing student availability wise). They would like them to work as regularly as able but at least 0.4 FTE for 1 – 2 months starting in the Easter term break.
 
 Helping mainly with:
 
