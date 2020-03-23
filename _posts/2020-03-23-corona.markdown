@@ -4,14 +4,15 @@ title:  Covid-19
 date:   2020-03-23 23:50:00 -1200
 image:  corona.jpg
 tags:   News
+---
 
 As you might have heard in the news – and as all kinds of rumours – NMIT is suspending classes until the 6th of April. After that classes will be held online only. I and the other IT tutors have expected for a while, that  something like this could  happen, so we have been doing some trials of possible learning environments and set-ups.
 
 It is individual what we have come up with – but I sense that we to a large degree have embraced MS Teams as the main hub in our designs.
 
-Personally, I am still working on a suitable online learning environment design. However, it will be with MS teams in the core, so please install the application, log in and find the group that I have created for your class. 
+Personally, I am still working on a suitable online learning environment design. However, it will be with MS teams in the core, so please install the application, log in and find the group that I have created for your class.
 
-Moodle will still be the ‘static’ place holder for course description documents and assignments. 
+Moodle will still be the ‘static’ place holder for course description documents and assignments.
 The Class Blog will still be the place for news and current course ides and inspiration– but I will possibly use the MS Team interface for exercises, explanations, homework, etc.
 
 Zoom and/or MS Team meetings will be held in class session time and for project supervision.
