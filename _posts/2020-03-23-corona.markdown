@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Covid-19
+date:   2020-03-23 23:50:00 -1200
+image:  corona.jpg
+tags:   News
+
+As you might have heard in the news – and as all kinds of rumours – NMIT is suspending classes until the 6th of April. After that classes will be held online only. I and the other IT tutors have expected for a while, that  something like this could  happen, so we have been doing some trials of possible learning environments and set-ups.
+
+It is individual what we have come up with – but I sense that we to a large degree have embraced MS Teams as the main hub in our designs.
+
+Personally, I am still working on a suitable online learning environment design. However, it will be with MS teams in the core, so please install the application, log in and find the group that I have created for your class. 
+
+Moodle will still be the ‘static’ place holder for course description documents and assignments. 
+The Class Blog will still be the place for news and current course ides and inspiration– but I will possibly use the MS Team interface for exercises, explanations, homework, etc.
+
+Zoom and/or MS Team meetings will be held in class session time and for project supervision.
+
+What I am still working on, is a functional and transparent way of organising the learning in different modes: lectures, presentations, discussions, exercises, group work, individual work. Also, I have to balance out how I can support and interact in the different learning modes and give feedback on progress and results. Still working on it – but I will keep you informed so you know what to expect.
+
+For now, you can possibly extend on where we left, last week. And get yourself set up with MS Teams. And yes – it also works in Mac and Linux :)
+
+As for the PRJ701/702 course, I think that we can have a supervisor allocation finalised mid week – I will send you a personal email, when you have a supervisor.
+
+Good luck out there and take care – it might take a while before I see you again in real life....
