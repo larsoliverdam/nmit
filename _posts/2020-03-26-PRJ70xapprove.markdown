@@ -6,10 +6,10 @@ image:  02.jpg
 tags:   News PRJx
 ---
 
-You project supervisors were allocated yesterday. Some supervisors might contact you - but I will sned out emails to each project student later today, to avoid any confusion.
+You project supervisors were allocated yesterday. Some supervisors might contact you - but I will send out emails to each project student later today, to avoid any confusion.
 
 Most proposals have been approved, but some need a bit more work. Your allocated supervisor will assist you with that.
-Don't hesitate send me questions - but please wait until you have recieved an email today.
+Don't hesitate sending me questions - but please wait until you have recieved an email today.
 
 If your question(s) are relevant to all of us - please post it in the MS Teams forum.
 
