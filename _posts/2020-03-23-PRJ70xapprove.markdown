@@ -14,3 +14,5 @@ Don't hesitate send me questions - but please wait until you have recieved an em
 If your question(s) are relevant to all of us - please post it in the MS Teams forum.
 
 Hope you are all well :)
+
+PS: Please also send me your Project Journal/Blog URL - if you haven't done it yet.
