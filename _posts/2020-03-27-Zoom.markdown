@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Zoom and MS Teams
+date:   2020-03-26 12:40:00 -1200
+image:  zoom.jpg
+tags:   News
+---
+
+I am getting closer to a way of organising our online classrooms. The following layout applies to all of my classes:
+
+* MS Teams will be the classroom hub. I have organised one team/course. Please ensure that you have the application installed
+* Within the individual teams there will Streams for permanent groups and notebooks for each student. We will utilise those to the extend we feel like
+* You will remain using your individual blog/journal as before
+* Moodle will have the same role as before
+* We will be using Zoom for all of the classroom sessions. Please set yourself up with a Zoom account, using your NMIT email account. This will ensure that I can report your attendance to the sessions. __Students based in China might have to use workarounds to use Zoom__. Some students based in China know how to do this -  please discuss internally (WeChat) how to do it
+* Upcoming classroom sessions will be following your timetable after April the 6th, and will be announced with a link in teams
+* The call function within MS Teams will be used for individual discussion (tutor – student, student – student, etc.). Basically everything that isn’t a common classroom session
+
+It might sound a bit confusing right now – but I have really, really tried to be consistent in my approach.
+
+Next week I will still be setting up the interfaces in MS Teams, organising practical details and updating the course schedules. We are loosing some valuable learning time - so I have to prioritise and ensure that we work efficiently towards our assessments.
+
+Hopefully you are all well?
+And mange to enjoy the break – to some extent?
