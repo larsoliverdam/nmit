@@ -3,7 +3,7 @@ layout: post
 title:  PRJ70x Workplacements - COVID-19
 date:   2020-03-31 15:20:00 -1200
 image:  corona.jpg
-tags:   News PRJx
+tags:   News PRJ70x
 ---
 
 I have just sent and email out our workplacement employers to assure them that regardless of the current situation,
