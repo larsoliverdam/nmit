@@ -3,7 +3,7 @@ layout: post
 title:  PRJ70x - Supervisors have been allocated
 date:   2020-03-26 12:40:00 -1200
 image:  02.jpg
-tags:   News PRJx
+tags:   News PRJ70x
 ---
 
 You project supervisors were allocated yesterday. Some supervisors might contact you - but I will send out emails to each project student later today, to avoid any confusion.
