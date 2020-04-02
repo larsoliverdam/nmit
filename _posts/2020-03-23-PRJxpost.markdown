@@ -3,7 +3,7 @@ layout: post
 title:  PRJ70x, First Seminar - Postponed one week
 date:   2020-03-24 17:15:00 -1200
 image:  01.jpg
-tags:   News PRJx
+tags:   News PRJ70x
 ---
 
 The seminar that was supposed to happen Friday the 3rd of April is postponed to the following week, Friday the 10th of April
