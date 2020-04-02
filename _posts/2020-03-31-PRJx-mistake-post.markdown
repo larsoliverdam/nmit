@@ -3,7 +3,7 @@ layout: post
 title:  PRJ70x, First Seminar - Mistake
 date:   2020-03-31 13:50:00 -1200
 image:  01.jpg
-tags:   News PRJx
+tags:   News PRJ70x
 ---
 
 I postponed the seminar that was supposed to happen Friday the 3rd of April to the following week, Friday the 10th of April.
