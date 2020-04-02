@@ -11,6 +11,7 @@ image: 01.jpg
 * [Albert](https://labone.home.blog/category/prj702/)
 * [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
 * [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
+* [Balaji](https://balajiprojectblog.wordpress.com/)
 * [Bryce](https://bjrowedev.github.io/projectjournal/)
 * [Lisha](https://graduateprj702sem1.wordpress.com/)
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
