@@ -1,0 +1,19 @@
+---
+layout: post
+title:  To Zoom or not to Zoom - it is MS Teams now
+date:   2020-04-07 14:50:00 -1200
+image:  zoom.jpg
+tags:   News
+---
+
+I have done the first online classroom session now. And I have to realise that I have to reorganise my setup slightly:
+The following new layout applies to all of my classes:
+
+* MS Teams will be the classroom hub. I have organised one team/course. Please ensure that you have the application installed
+* Within the individual teams there will channels for permanent groups and notebooks for each student. We will utilise those to the extend we feel like
+* You will remain using your individual blog/journal as before
+* Moodle will have the same role as before
+* We will __NOT__ be using Zoom for the classroom sessions.
+* Upcoming classroom sessions will be announced with an invitation in teams
+* The call function within MS Teams will be used for classroom session, presentations, individual discussion (tutor – student, student – student, etc.). group meetings - basically everything
+* Please ensure that you are avalible in your allocated groups (channels) during group session time
