@@ -13,6 +13,7 @@ image: 01.jpg
 * [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
 * [Balaji](https://balajiprojectblog.wordpress.com/)
 * [Bryce](https://bjrowedev.github.io/projectjournal/)
+* [Jasvir](https://jasvir32205620.wordpress.com/)
 * [Lisha](https://graduateprj702sem1.wordpress.com/)
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
 * [Milton](https://prj701716603981.wordpress.com/)
