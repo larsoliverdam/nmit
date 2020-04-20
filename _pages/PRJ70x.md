@@ -14,6 +14,7 @@ image: 01.jpg
 * [Balaji](https://balajiprojectblog.wordpress.com/)
 * [Bryce](https://bjrowedev.github.io/projectjournal/)
 * [Daniel](https://danielmus701.wordpress.com/)
+* [Dura](https://duranthakalpage.home.blog/category/grad-dip-project/)
 * [Jasvir](https://jasvir32205620.wordpress.com/)
 * [Lisha](https://graduateprj702sem1.wordpress.com/)
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
