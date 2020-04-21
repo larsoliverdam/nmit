@@ -23,7 +23,7 @@ image: 01.jpg
 * [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
 * [Milton](https://prj701716603981.wordpress.com/)
 * [Oleg](https://sio2k.home.blog/prj701/)
-* [Reetinder]()
+* [Reetinder](https://prj702project.wordpress.com/)
 * [Shivnagi](https://sknmit702.wordpress.com/)
 * [Sinhara](https://prj702sinharanmit.home.blog/)
 * [Zhengning](https://prj701553549552.wordpress.com)
