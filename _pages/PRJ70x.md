@@ -12,7 +12,7 @@ image: 01.jpg
 * [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
 * [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
 * [Balaji](https://balajiprojectblog.wordpress.com/)
-* [Blake]()
+* [Blake](https://blakedes501.wordpress.com/)
 * [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
 * [Bryce](https://bjrowedev.github.io/projectjournal/)
 * [Daniel](https://danielmus701.wordpress.com/)
