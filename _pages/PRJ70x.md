@@ -32,9 +32,12 @@ image: 01.jpg
 #### First Compulsory Session Semester 1, 2020 
 <small>May 1 2020</small>
 
+**NB Compulsory Attendance**
+
 Finally the first seminar session is happening.
 We will all meet here in the PRJ70x Team and after a brief introduction from me, you will be presenting your project and your progress, individually. Please remember that no no more than 5 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
 See you on Friday :)
+
 **NB Compulsory Attendance**
 
 #### Welcome to Semester 1, 2020 
