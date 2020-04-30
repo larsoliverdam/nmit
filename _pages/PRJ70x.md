@@ -44,7 +44,7 @@ image: 01.jpg
 
 **Your Poster**
 
-* [Creating A1 poster, (video)](https://youtu.be/c1iEaTJ3czk)
+* [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
 * [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
 * [NMIT Logo files](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=625225)
 
