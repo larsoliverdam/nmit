@@ -29,6 +29,30 @@ image: 01.jpg
 * [Zhengning](https://prj701553549552.wordpress.com)
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
+#### Useful Resources 
+
+**Your Proposal**
+
+* [Proposal template](https://docs.google.com/document/d/102CHtLPQZwfHNMYLw4kcR8bvyOJGNZuPpnt-bsUSs_4/edit?usp=sharing)
+* [Workplace proposal](https://docs.google.com/document/d/1TYrZ0_R3p86VIgtpluj0gJoRtk1ZdLEhT0FW5-Wy3QU/edit?usp=sharing)
+
+**Your Report**
+
+* [Development Report Structure](https://docs.google.com/document/d/1LKncw2rny912JZegfynVDO0MbfD84ixv1vhRBWClYE0/edit?usp=sharing)
+* [Research Report Structure](https://docs.google.com/document/d/1jxDujxsE4u7NKzYB9dF6Dh8ZCSejrCZu-Hq3-g2XNG0/edit?usp=sharing)
+* [Work Placement Report Structure](https://docs.google.com/document/d/1LtkkekuobjDJOIpvbvDNZzNTj91U_Mc3ktv5afeBOYU/edit?usp=sharing)
+
+**Your Poster**
+
+* [Creating A1 poster, (video)](https://youtu.be/c1iEaTJ3czk)
+* [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
+* [NMIT Logo files](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=625225)
+
+#### Other Useful Resources
+
+* [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
+* [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
+
 #### First Compulsory Session Semester 1, 2020 
 <small>May 1 2020</small>
 
