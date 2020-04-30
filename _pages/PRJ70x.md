@@ -5,30 +5,6 @@ permalink: /PRJ70x/
 image: 01.jpg
 ---
 
-#### Student blogs
-<small> Semester 1 2020</small>
-
-* [Albert](https://labone.home.blog/category/prj702/)
-* [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
-* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
-* [Balaji](https://balajiprojectblog.wordpress.com/)
-* [Blake](https://blakedes501.wordpress.com/)
-* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
-* [Bryce](https://bjrowedev.github.io/projectjournal/)
-* [Daniel](https://danielmus701.wordpress.com/)
-* [Dura](https://duranthakalpage.home.blog/category/grad-dip-project/)
-* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
-* [Jasvir](https://jasvir32205620.wordpress.com/)
-* [Lisha](https://graduateprj702sem1.wordpress.com/)
-* [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
-* [Milton](https://prj701716603981.wordpress.com/)
-* [Oleg](https://sio2k.home.blog/prj701/)
-* [Reetinder](https://prj702project.wordpress.com/)
-* [Shivnagi](https://sknmit702.wordpress.com/)
-* [Sinhara](https://prj702sinharanmit.home.blog/)
-* [Zhengning](https://prj701553549552.wordpress.com)
-* [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
-
 #### Useful Resources 
 
 **Your Proposal**
@@ -52,6 +28,30 @@ image: 01.jpg
 
 * [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
 * [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
+
+#### Student blogs
+<small> Semester 1 2020</small>
+
+* [Albert](https://labone.home.blog/category/prj702/)
+* [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
+* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
+* [Balaji](https://balajiprojectblog.wordpress.com/)
+* [Blake](https://blakedes501.wordpress.com/)
+* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
+* [Bryce](https://bjrowedev.github.io/projectjournal/)
+* [Daniel](https://danielmus701.wordpress.com/)
+* [Dura](https://duranthakalpage.home.blog/category/grad-dip-project/)
+* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
+* [Jasvir](https://jasvir32205620.wordpress.com/)
+* [Lisha](https://graduateprj702sem1.wordpress.com/)
+* [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
+* [Milton](https://prj701716603981.wordpress.com/)
+* [Oleg](https://sio2k.home.blog/prj701/)
+* [Reetinder](https://prj702project.wordpress.com/)
+* [Shivnagi](https://sknmit702.wordpress.com/)
+* [Sinhara](https://prj702sinharanmit.home.blog/)
+* [Zhengning](https://prj701553549552.wordpress.com)
+* [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
 #### First Compulsory Session Semester 1, 2020 
 <small>May 1 2020</small>
