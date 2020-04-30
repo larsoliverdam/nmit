@@ -31,7 +31,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
 * [NMIT Logo files](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=625225)
 
-#### Other Useful Resources for Students
+#### Other Resources for Students
 
 * [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
 * [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
