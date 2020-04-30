@@ -4,8 +4,15 @@ title: PRJ70x
 permalink: /PRJ70x/
 image: 01.jpg
 ---
+#### Employer Information
 
-#### Useful Resources 
+[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
+
+[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
+
+The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
+
+#### Useful Resources for Students
 
 **Your Proposal**
 
@@ -24,7 +31,7 @@ image: 01.jpg
 * [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
 * [NMIT Logo files](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=625225)
 
-#### Other Useful Resources
+#### Other Useful Resources for Students
 
 * [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
 * [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
