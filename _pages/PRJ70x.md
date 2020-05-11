@@ -37,7 +37,7 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 
 ![Basic Search](/docs/img/signinlibrary.png)
 
-![Specific Search](/docs/img/2016-5-131551.png)
+![Specific Search](/docs/img/advanced.png)
 
 #### Other Resources for Students
 
