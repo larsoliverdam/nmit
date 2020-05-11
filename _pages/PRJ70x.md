@@ -31,6 +31,14 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
 * [NMIT Logo files](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=625225)
 
+#### Previous Projects
+
+You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.softlinkhosting.co.nz/liberty/opac/search.do?=BIT&=Project&=R&queryTerm=BIT%20project%20report&mode=BASIC&operator=AND&title=Title%20...%20enter%20here&publicationYear=Year%20From&yearTo=Year%20To&catalogAuthors=Author%20...%20enter%20here&publisher=Publisher%20...%20enter%20here&mainSubject=Subject%20...%20enter%20here&series=Series%20...%20enter%20here&limit=All&branch=All&resourceCollection=All&=undefined&modeRadio=KEYWORD&activeMenuItem=false) in the NMIT Library. Click the previous link and follow the guidelines below:
+
+![Basic Search](/docs/img/signinlibrary.png)
+
+![Specific Search](/docs/img/2016-5-131551.png)
+
 #### Other Resources for Students
 
 * [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
