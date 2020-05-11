@@ -4,7 +4,7 @@ title: PRJ70x
 permalink: /PRJ70x/
 image: 01.jpg
 ---
-#### Employer Information
+#### Information for Employers
 
 [Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
 
