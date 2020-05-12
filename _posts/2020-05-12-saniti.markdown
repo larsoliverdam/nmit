@@ -6,4 +6,4 @@ image:  saniti.png
 tags:   News PRJ70x
 ---
 
-Camille from SANITI will be holding the seminar. The Zoom link will be in the General PRJ70x MS Teams Channel.
+Camille from SANITI will be holding the seminar. The Zoom link is in the General PRJ70x MS Teams Channel.
