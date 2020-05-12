@@ -69,6 +69,11 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 * [Zhengning](https://prj701553549552.wordpress.com)
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
+#### Job Seminar - non Compulsory Session Semester 1, 2020 
+<small>May 14 2020</small>
+
+Camille from SANITI is conducting this seminar. The Zoom link will be in the General PRJ70x Channel.
+ 
 #### First Compulsory Session Semester 1, 2020 
 <small>May 1 2020</small>
 
