@@ -6,6 +6,6 @@ image:  11.jpg
 tags:   News PRJ70x
 ---
 
-The report writing session will be held Friday the 22nd of May ,at Campus in A308
+The report writing session will be held Friday the 22nd of May, 11 am - 1 pm at Campus in A308
 There will also be a MS Teams connection in the room.
 Optional attendance.
