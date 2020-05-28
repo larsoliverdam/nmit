@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Second Compulsory Project Session
-date:   2020-05-29 15:05:00 -1200
+date:   2020-05-27 15:05:00 -1200
 image:  07.jpg
 tags:   News PRJ70x
 ---
