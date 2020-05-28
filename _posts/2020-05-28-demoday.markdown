@@ -3,7 +3,7 @@ layout: post
 title:  Postponed - NET603 Assessment 2 Demonstration Day
 date:   2020-05-28 14:30:00 -1200
 image:  VMware.jpg
-tags:   News PRJ70x
+tags:   News NET603
 ---
 
 I have suggested the Demonstartion session to be moved from the Thursday the 18th of June to Thursday the 25th of June.
