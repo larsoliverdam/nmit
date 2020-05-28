@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Back on Campus
-date:   2020-05-29 14:40:00 -1200
+date:   2020-05-28 14:40:00 -1200
 image:  corona.jpg
 tags:   News
 ---
