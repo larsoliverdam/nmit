@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  Second Compulsory Project Session
-date:   2020-05-29 15:05:00 -1200
-image:  07.jpg
+title:  Postponed - NET603 Assessment 2 Demonstration Day
+date:   2020-05-29 14:30:00 -1200
+image:  VMware.jpg
 tags:   News PRJ70x
 ---
 
-We have the second compulsory seminar, Friday the 29th at 11 am – 1 pm in A308. Please be ready to make a micro presentation about your project and how it has developed and progressed. No slides, no formal stuff – just a couple of minutes of you talking and answering questions.
+I have suggested the Demonstartion session to be moved from the Thursday the 18th of June to Thursday the 25th of June.
+The reason is a mistake I made with the planning of the PRJ70x Poster Presentation Event.
+And the fact that I have some other social commitments on that day :)
+Please let me know if it is a problem for you....and we can possibly replan.
+All other due dates stay as they are.
