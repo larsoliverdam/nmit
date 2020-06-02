@@ -6,11 +6,11 @@ image: 01.jpg
 ---
 #### Information for Employers
 
-**[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing)** – brief description of work placement procedures and expectations
+[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
 
-**[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing)** is a form that specifies the work placement project. The workplace contact/employer is filling it in.
+[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
 
-The **[Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing)** is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
+The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
 
 #### Useful Resources for Students
 
