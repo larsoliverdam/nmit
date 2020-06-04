@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Work Placement Opportunity – Connected to CCL
+date:   2020-06-5 11:35:00 -1200
+image:  CCL.jpg
+tags:   News PRJ70x
+---
+
+CCL has a client that is interested in getting a NMIT student to carry out a number of projects in their environment, in the lines of Server Infrastructure (File Share clean-ups, review of User Data and System Admin)
