@@ -70,7 +70,49 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 * [Zhengning](https://prj701553549552.wordpress.com)
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
-#### Job Seminar - non Compulsory Session Semester 1, 2020 
+### Poster Creation - non Compulsory Session Semester 1, 2020
+The session will be on Friday the 12th of June, 1 am — 1 pm in A308. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
+
+We will just have a look at previous students’ posters, discuss design ideas and look at different tools to create your poster. If you are unable to come – look in this blog under 'Your Poster' and you can get inspiration from previous posters.
+
+While the poster does not contribute as much as the report to your final grade, it is still a very important part of the project’s assessment, as your poster is your way of showing the world what you have done in your project.  You want people to read it, be engaged by it and use it as the basis for asking you interesting questions. Therefore you should spend a realistic amount of time designing, preparing your poster and demonstration. Also, ensure that your name, your supervisor’s name and the NMIT Logo (zip file with several variations) is linked on NMIT Moodle just above the poster Dropbox, above in this blog and [here](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=625225).
+
+Once complete, please put a copy of your poster file into the dropbox on Moodle.
+
+**Instructions for preparation of posters for best print quality**
+
+Design your poster at the A1 size which is 594 * 841mm. Designing at A4 size and blowing it up is not a good option.
+If you wish the posters cut to bleed (print right to the edge after cutting), they should be 596 *843mm so that they can trim 1mm off all sides and still accommodate the A1 size.
+Supply as a high resolution (minimum 300dpi) pdf or jpg file.  If supplied as a pdf, convert all text to paths or outlines, to ensure that fonts do not change.
+
+**Poster Creation Techniques & Tools**
+As first general rule would be to always create a ‘paper size’ of A1 (or the measurements of A1) to work on – no matter which tool or software you are using. This way you achieve both to have an overview of what you are putting on your poster, and you are getting a good resolution when you are printing out.
+
+Discussions with previous about tools/software to create posters, we came to the conclusion, that the following tools could be recommended – with increased difficulty and complexity from top to bottom of the list:
+
+* Word
+* Publisher
+* PowerPoint
+* Visio
+* Photoshop
+
+The printing shops will be able to print out Word files and graphics files from Photoshop and Publisher. If you are working with other file formats – just choose ‘Save As’ and select PDF in those applications. And the A1 sized PDF can be printed out at the printing shop.
+
+You are free to have your poster printed wherever you like, but in the past we have suggested either Speedy Print Nelson Ltd., 75 Buxton Square, Nelson or The Warehouse Stationery in Bridge Street. I haven’t checked for a while, but you can probably get your poster printed and laminated for around $30.
+
+**Poster Design**
+According to me posters should be;
+
+**Big – Bold – Simple – Explanatory**
+
+I think that designs based mainly on diagrams and models, without much text, achieve that.
+
+**Be creative!**
+
+### Second Compulsory Session Semester 1, 2020 
+We have the second compulsory seminar, Friday the 29th at 11 am – 1 pm in A308. Please be ready to make a micro presentation about your project and how it has developed and progressed. No slides, no formal stuff – just a couple of minutes of you talking and answering questions.
+
+### Job Seminar - non Compulsory Session Semester 1, 2020 
 <small>May 14 2020</small>
 
 Camille from SANITI is conducting this seminar. The Zoom link will be in the General PRJ70x Channel.
