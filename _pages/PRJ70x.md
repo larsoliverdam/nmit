@@ -70,7 +70,7 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 * [Zhengning](https://prj701553549552.wordpress.com)
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
-### Poster Creation - non Compulsory Session Semester 1, 2020
+### Poster Creation - Non Compulsory Session Semester 1, 2020
 
 The session will be on Friday the 12th of June, 1 am — 1 pm in A308. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
 
@@ -115,7 +115,7 @@ I think that designs based mainly on diagrams and models, without much text, ach
 ### Second Compulsory Session Semester 1, 2020 
 We have the second compulsory seminar, Friday the 29th at 11 am – 1 pm in A308. Please be ready to make a micro presentation about your project and how it has developed and progressed. No slides, no formal stuff – just a couple of minutes of you talking and answering questions.
 
-### Job Seminar - non Compulsory Session Semester 1, 2020 
+### Job Seminar - Non Compulsory Session Semester 1, 2020 
 <small>May 14 2020</small>
 
 Camille from SANITI is conducting this seminar. The Zoom link will be in the General PRJ70x Channel.
