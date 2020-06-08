@@ -71,6 +71,7 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
 ### Poster Creation - non Compulsory Session Semester 1, 2020
+
 The session will be on Friday the 12th of June, 1 am — 1 pm in A308. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
 
 We will just have a look at previous students’ posters, discuss design ideas and look at different tools to create your poster. If you are unable to come – look in this blog under 'Your Poster' and you can get inspiration from previous posters.
@@ -86,6 +87,7 @@ If you wish the posters cut to bleed (print right to the edge after cutting), th
 Supply as a high resolution (minimum 300dpi) pdf or jpg file.  If supplied as a pdf, convert all text to paths or outlines, to ensure that fonts do not change.
 
 **Poster Creation Techniques & Tools**
+
 As first general rule would be to always create a ‘paper size’ of A1 (or the measurements of A1) to work on – no matter which tool or software you are using. This way you achieve both to have an overview of what you are putting on your poster, and you are getting a good resolution when you are printing out.
 
 Discussions with previous about tools/software to create posters, we came to the conclusion, that the following tools could be recommended – with increased difficulty and complexity from top to bottom of the list:
@@ -101,6 +103,7 @@ The printing shops will be able to print out Word files and graphics files from 
 You are free to have your poster printed wherever you like, but in the past we have suggested either Speedy Print Nelson Ltd., 75 Buxton Square, Nelson or The Warehouse Stationery in Bridge Street. I haven’t checked for a while, but you can probably get your poster printed and laminated for around $30.
 
 **Poster Design**
+
 According to me posters should be;
 
 **Big – Bold – Simple – Explanatory**
