@@ -106,9 +106,16 @@ You are free to have your poster printed wherever you like, but in the past we h
 
 According to me posters should be;
 
-**Big – Bold – Simple – Explanatory**
+_Big – Bold – Simple – Explanatory_
 
 I think that designs based mainly on diagrams and models, without much text, achieve that.
+
+The following tutorials have been selected by my friend Klaas Breukel. He is teaching design and CGI here at NMIT.
+
+* [Visual hierarchy](https://www.reddit.com/r/web_design/comments/bzjjfr/visual_hierarchy_perfectly_illustrated/?st=jx552ru9&sh=fe7963b3)
+* [Graphic Design fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0&t=7s)
+* [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8&t=10s)
+* [Fonts that go together](https://www.youtube.com/watch?v=w2TqSuh3gTI)
 
 **Be creative!**
 
