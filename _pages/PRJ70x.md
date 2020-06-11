@@ -117,7 +117,7 @@ The following tutorials have been selected by my friend Klaas Breukel. He is tea
 * [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8&t=10s)
 * [Fonts that go together](https://www.youtube.com/watch?v=w2TqSuh3gTI)
 
-_**Be creative!**_
+_Be creative!_
 
 ### Second Compulsory Session Semester 1, 2020 
 We have the second compulsory seminar, Friday the 29th at 11 am – 1 pm in A308. Please be ready to make a micro presentation about your project and how it has developed and progressed. No slides, no formal stuff – just a couple of minutes of you talking and answering questions.
