@@ -30,7 +30,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * Poster examples from previous years: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
 * [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
 * [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
-* [NMIT Logo files](docs/img/NMIT_Logo.7z)
+* [NMIT Logo files](/docs/img/NMIT_Logo.7z)
 
 
 #### Other Resources for Students
