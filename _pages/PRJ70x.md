@@ -2,7 +2,7 @@
 layout: page
 title: PRJ70x
 permalink: /PRJ70x/
-image: 11.jpg
+image: b&w.jpg
 ---
 #### Information for Employers
 
