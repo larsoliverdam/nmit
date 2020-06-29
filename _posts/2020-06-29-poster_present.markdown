@@ -3,7 +3,7 @@ layout: post
 title:  Poster Presentation Semester 1 2020
 date:   2020-06-29 19:40:00 -1200
 image:  b&w.jpg
-tags:   News PRJ70x
+tags:   News PRJ70x Events
 ---
 
 ![Picture 1](/docs/img/pictures_s1_20/1.jpg)
