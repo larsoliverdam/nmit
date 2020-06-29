@@ -27,7 +27,8 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 
 **Your Poster**
 
-* Poster examples from previous years: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
+* Posters from previous years can be found here below, along with links to Student Blogs/Journals
+* Poster examples from before 2020: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
 * [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
 * [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
 * [NMIT Logo files](/docs/img/NMIT_Logo.7z)
@@ -69,6 +70,27 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 * [Sinhara](https://prj702sinharanmit.home.blog/)
 * [Zhengning](https://prj701553549552.wordpress.com)
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
+
+#### Student posters
+<small> Semester 1 2020</small>
+
+![Poster 1](/docs/img/posters_s120/3.jpg)
+![Poster 2](/docs/img/posters_s120/5.png)
+![Poster 3](/docs/img/posters_s120/8.jpg)
+![Poster 4](/docs/img/posters_s120/11.jpg)
+![Poster 5](/docs/img/posters_s120/13.jpg)
+[Poster 6](/docs/img/posters_s120/1.pdf)
+[Poster 7](/docs/img/posters_s120/2.pdf)
+[Poster 8](/docs/img/posters_s120/4.pptx)
+[Poster 9](/docs/img/posters_s120/9.pdf)
+[Poster 10](/docs/img/posters_s120/10.pdf)
+[Poster 11](/docs/img/posters_s120/12.pdf)
+[Poster 12](/docs/img/posters_s120/14.pdf)
+[Poster 13](/docs/img/posters_s120/15.pptx)
+[Poster 14](/docs/img/posters_s120/16.pdf)
+[Poster 15](/docs/img/posters_s120/14.pdf)
+[Poster 16](/docs/img/posters_s120/16.pdf)
+[Poster 17](/docs/img/posters_s120/17.pptx)
 
 ### Poster Creation - Non Compulsory Session Semester 1, 2020
 
