@@ -6,11 +6,11 @@ image:  b&w.jpg
 tags:   News PRJ70x
 ---
 
-![](/docs/img/pictures_s1_20/1.jpg)
-![](/docs/img/pictures_s1_20/2.jpg)
-![](/docs/img/pictures_s1_20/3.jpg)
-![](/docs/img/pictures_s1_20/4.jpg)
-![](/docs/img/pictures_s1_20/5.jpg)
-![](/docs/img/pictures_s1_20/6.jpg)
-![](/docs/img/pictures_s1_20/7.jpg)
-![](/docs/img/pictures_s1_20/8.jpg)
+(/docs/img/pictures_s1_20/1.jpg)
+(/docs/img/pictures_s1_20/2.jpg)
+(/docs/img/pictures_s1_20/3.jpg)
+(/docs/img/pictures_s1_20/4.jpg)
+(/docs/img/pictures_s1_20/5.jpg)
+(/docs/img/pictures_s1_20/6.jpg)
+(/docs/img/pictures_s1_20/7.jpg)
+(/docs/img/pictures_s1_20/8.jpg)
