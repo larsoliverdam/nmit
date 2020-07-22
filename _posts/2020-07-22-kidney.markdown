@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Sickness 
+date:   2020-07-22 16:10:00 -1200
+image:  kidney.jpg
+tags:   News PRJ70x RES701 OSA501 NET701
+---
+
+**Sorry - I am sick the first week of the semester**
+
+I am awfully sorry, but Monday night I had case of Kidney Stone. If you have ever heard about it – I hadn’t – then you would know that it is quite painful but not dangerous in any way. I am recovering and will slowly be back at work on Friday. This means that my classes on Thursday will all be cancelled – again. But I am sure that we will manage anyway.
+
+As for the NET 701 and PRJ70x students, there are a few things that you could do until next week:
+
+**PRJ70x:** I don’t think that we should postpone the submission of the proposal. It would just delay your work. But the compulsory first session is postponed until next Thursday. Same time and place.
+
+In the meantime you can read carefully through the material on Moodle and on the PRJ70x page in this blog. All the information you need should be in there. If you have specific questions or uncertainties, you can contact me in the beginning of next week. I should be well by then.
+
+**NET701:** The same as PRJ70x – read through the material and try to get an overview. It is a course that I have taken over this year, and it needs a lot of simplification. But the main content should be clear. You will however need a handbook from Wmware to be able to structure and preform the labs – I am currently working on access to this resource. I will send you your individual account details as soon as I have them. You are working in [TALOS VTE](https://nt-vcsa.talos.net.nz/) as usual, with individual accounts this time. I will send you your account details ASAP. This would enable you to sniff a bit around before we start the more serious work.
