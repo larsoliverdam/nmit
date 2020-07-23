@@ -71,6 +71,7 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 #### Student blogs
 <small> Semester 2 2020</small>
 
+* [Callum](https://callumschat.wordpress.com/)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
