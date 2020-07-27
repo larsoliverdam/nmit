@@ -18,7 +18,7 @@ During this transition there might still be some interesting and/or relevant inf
 
 Welcome to semester 2, 2020. I am Lars, and I will be the coordinator for the Project Paper.
 
-We are having our first session for student new to the paper on Thursday, 23rd of July, 1 pm - 3 pm in A215. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
+We are having our first session for student new to the paper on Thursday, 30th of July, 1 pm - 3 pm in A215. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
 
 The way the information for this course is organised, is that corse descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This Jekyll blog is our dynamic communication interface – including tips, links, guides and information about previous projects.
 
