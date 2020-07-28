@@ -72,10 +72,10 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 <small> Semester 2 2020</small>
 
 * [Callum](https://callumschat.wordpress.com/)
+* [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
-#### Student blogs
 <small> Semester 1 2020</small>
 
 * [Albert](https://labone.home.blog/category/prj702/)
