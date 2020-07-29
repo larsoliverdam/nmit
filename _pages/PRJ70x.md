@@ -73,6 +73,7 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 
 * [Callum](https://callumschat.wordpress.com/)
 * [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
+* [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
