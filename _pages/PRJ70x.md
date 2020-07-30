@@ -8,10 +8,15 @@ image: b&w.jpg
 #### Student blogs
 <small> Semester 2 2020</small>
 
+* [Akhil](https://prj70x.wordpress.com/)
+* [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
 * [Callum](https://callumschat.wordpress.com/)
 * [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
+* [Daniel](https://internshipjournal519455640.wordpress.com/)
+* [Gijs](https://gijs.school.blog/)
 * [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
+* [Vishnu](https://badboyprj70x.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
 #### The PRJ70x Class Blog 
