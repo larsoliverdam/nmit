@@ -15,7 +15,10 @@ image: b&w.jpg
 * [Daniel](https://internshipjournal519455640.wordpress.com/)
 * [Gijs](https://gijs.school.blog/)
 * [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
+* [Jayden](https://jaykdpc.wordpress.com/category/prj701/)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
+* [Kashish](https://kashishpriya.wordpress.com/)
+* [Pukar](https://pukardhakal880.wordpress.com)
 * [Vishnu](https://badboyprj70x.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
