@@ -11,6 +11,7 @@ image: b&w.jpg
 * [Akhil](https://prj70x.wordpress.com/)
 * [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
 * [Callum](https://callumschat.wordpress.com/)
+* [Chamara](https://projectswithlanka.blogspot.com/)
 * [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
 * [Daniel](https://internshipjournal519455640.wordpress.com/)
 * [Gijs](https://gijs.school.blog/)
@@ -19,6 +20,7 @@ image: b&w.jpg
 * [Jonathan](https://jonosbitblog.wordpress.com/)
 * [Kashish](https://kashishpriya.wordpress.com/)
 * [Pukar](https://pukardhakal880.wordpress.com)
+* [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
 * [Vishnu](https://badboyprj70x.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
