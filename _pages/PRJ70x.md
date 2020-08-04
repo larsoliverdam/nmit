@@ -9,6 +9,7 @@ image: b&w.jpg
 <small> Semester 2 2020</small>
 
 * [Akhil](https://prj70x.wordpress.com/)
+* [Anushka](https://anushkazblog.wordpress.com/prj702/)
 * [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
 * [Callum](https://callumschat.wordpress.com/)
 * [Chamara](https://projectswithlanka.blogspot.com/)
