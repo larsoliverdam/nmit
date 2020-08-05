@@ -20,9 +20,11 @@ image: b&w.jpg
 * [Jayden](https://jaykdpc.wordpress.com/category/prj701/)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
 * [Kashish](https://kashishpriya.wordpress.com/)
+* [Mariya](https://mariyajacob15.wordpress.com/)
 * [Pukar](https://pukardhakal880.wordpress.com)
 * [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
 * [Vishnu](https://badboyprj70x.wordpress.com/)
+* [Vishnupriya](https://prjvish.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
 #### The PRJ70x Class Blog 
