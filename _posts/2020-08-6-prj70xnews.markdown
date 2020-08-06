@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Project update
-date:   2020-07-22 15:35:00 -1200
+date:   2020-08-06 15:35:00 -1200
 image:  b&w.jpg
 tags:   News PRJ70x
 ---
