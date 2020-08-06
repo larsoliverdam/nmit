@@ -38,6 +38,13 @@ Moodle will act as the static course place holder for assignments, drop-boxes, e
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
 
+#### Project approval update
+<small>August 6 2020</small>
+
+Most of the proposals were uploaded from approval, Monday. The ones with extension were uploaded  Wednesday morning. You proposals were discussed in our Wednesday staff meeting. On Friday some students will be notified of approval status. The rest will follow on Monday.
+
+Please be aware that out of your officially timetabled PRJ70x classes, only 3 of them are compulsory. Others will be optional. You can see the list of planned sessions in Moodle. I will also always advertise an upcoming session in advance - here and in MS Teams.
+
 #### Welcome to Semester 2, 2020 
 <small>July 20 2020</small>
 
