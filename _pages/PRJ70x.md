@@ -38,6 +38,14 @@ Moodle will act as the static course place holder for assignments, drop-boxes, e
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
 
+#### More about project approval
+<small>August 10 2020</small>
+
+Last Friday all students were notified of supervisor allocation. The way we are running the process this year, is that we allocate a
+supervisor first, and then you work with him/her to fine-tune the
+project. Therefore the supervisor will be the one who is communicating the approval with you.
+
+
 #### Project approval update
 <small>August 6 2020</small>
 
