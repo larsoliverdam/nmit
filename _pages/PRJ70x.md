@@ -10,6 +10,7 @@ image: b&w.jpg
 
 * [Akhil](https://prj70x.wordpress.com/)
 * [Anushka](https://anushkazblog.wordpress.com/prj702/)
+* [Aparna](https://project2020133299552.wordpress.com/)
 * [Asha](https://ashasblog762071977.wordpress.com/)
 * [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
 * [Blake](https://blakedes501.wordpress.com/)
