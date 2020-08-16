@@ -8,6 +8,7 @@ image: b&w.jpg
 #### Student blogs
 <small> Semester 2 2020</small>
 
+* [AJ](https://strategichotfairys.home.blog/)
 * [Akhil](https://prj70x.wordpress.com/)
 * [Anushka](https://anushkazblog.wordpress.com/prj702/)
 * [Aparna](https://project2020133299552.wordpress.com/)
