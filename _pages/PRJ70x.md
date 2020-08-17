@@ -44,6 +44,17 @@ Moodle will act as the static course place holder for assignments, drop-boxes, e
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
 
+#### First Compulsory Session Semester 1, 2020 
+<small>May 1 2020</small>
+
+**NB Compulsory Attendance**
+
+Finally the first seminar session is happening - Thursday, August 20, 1-3 pm, Room A215.
+After a brief introduction from me, you will individuallybe presenting your project and your progress. Please remember that no no more than 5 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
+See you on Thursday :)
+
+**NB Compulsory Attendance**
+
 #### More about project approval
 <small>August 10 2020</small>
 
@@ -216,15 +227,4 @@ We have the second compulsory seminar, Friday the 29th at 11 am – 1 pm in A308
 <small>May 14 2020</small>
 
 Camille from SANITI is conducting this seminar. The Zoom link will be in the General PRJ70x Channel.
- 
-#### First Compulsory Session Semester 1, 2020 
-<small>May 1 2020</small>
-
-**NB Compulsory Attendance**
-
-Finally the first seminar session is happening.
-We will all meet here in the PRJ70x Team and after a brief introduction from me, you will be presenting your project and your progress, individually. Please remember that no no more than 5 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
-See you on Friday :)
-
-**NB Compulsory Attendance**
 -->
