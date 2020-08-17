@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Guest Speaker, CCL
+date:   2020-08-17 16:25:00 -1200
+image:  CCL.jpg
+tags:   News NET701
+---
+
+**Alex from CCL and Dan from NMIT ITS**
+
+We are in the fortunate position of having Alex from CCL coming in on Thursday to speak about the NMIT infrastructure architecture as an example of an enterprise solution where WMware is implemented. He will explain the justification of the current solution and it’s advantages/disadvantages. Connected to this will also discuss the hybrid balance in the solution. Lastly we possibly have time to explore how documentation from Vmware can  bridge into the management/governance frameworks  (ITIL and COBIT).
+
+Dan from NMIT ITS will join him, and talk about NMIT’s infrastructure relevant from a Vmware administration and maintenance perspective. Also, it will be interesting experience a valuation of the current solution from his perspective.
