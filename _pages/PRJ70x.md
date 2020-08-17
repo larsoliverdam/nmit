@@ -62,7 +62,6 @@ Last Friday all students were notified of supervisor allocation. The way we are 
 supervisor first, and then you work with him/her to fine-tune the
 project. Therefore the supervisor will be the one who is communicating the approval with you.
 
-
 #### Project approval update
 <small>August 6 2020</small>
 
