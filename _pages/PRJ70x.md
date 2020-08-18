@@ -8,7 +8,7 @@ image: b&w.jpg
 #### Student blogs
 <small> Semester 2 2020</small>
 
-* {Aileen](https://aepnmit2020.wordpress.com/)
+* [Aileen](https://aepnmit2020.wordpress.com/)
 * [AJ](https://strategichotfairys.home.blog/)
 * [Akhil](https://prj70x.wordpress.com/)
 * [Anushka](https://anushkazblog.wordpress.com/prj702/)
