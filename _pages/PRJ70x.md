@@ -32,6 +32,7 @@ image: b&w.jpg
 * [Mariya](https://mariyajacob15.wordpress.com/)
 * [Pukar](https://pukardhakal880.wordpress.com)
 * [Sakar](https://wordpress.com/view/sakar974736820.wordpress.com)
+* [Sharad](prj702sharad.wordpress.com)
 * [Suhaib](https://res701suhaib.wordpress.com/)
 * [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
 * [Vishnu](https://badboyprj70x.wordpress.com/)
