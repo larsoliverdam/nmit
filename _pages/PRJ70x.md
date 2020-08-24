@@ -37,6 +37,7 @@ image: b&w.jpg
 * [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
 * [Vishnu](https://badboyprj70x.wordpress.com/)
 * [Vishnupriya](https://prjvish.wordpress.com/)
+* [Vishvat](https://prj702vishvat.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
 #### The PRJ70x Class Blog 
