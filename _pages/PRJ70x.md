@@ -5,21 +5,47 @@ permalink: /PRJ70x/
 image: b&w.jpg
 ---
 
+#### Information for Employers
+
+[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
+
+[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
+
+The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
+
 #### Student blogs
 <small> Semester 2 2020</small>
 
+* [Aileen](https://aepnmit2020.wordpress.com/)
+* [AJ](https://strategichotfairys.home.blog/)
 * [Akhil](https://prj70x.wordpress.com/)
+* [Anushka](https://anushkazblog.wordpress.com/prj702/)
+* [Aparna](https://project2020133299552.wordpress.com/)
+* [Asha](https://ashasblog762071977.wordpress.com/)
 * [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
+* [Blake](https://blakedes501.wordpress.com/)
+* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
 * [Callum](https://callumschat.wordpress.com/)
+* [Chamara](https://projectswithlanka.blogspot.com/)
 * [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
+* [David](https://myprojectblogs.wordpress.com/)
 * [Daniel](https://internshipjournal519455640.wordpress.com/)
+* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
+* [Finn](https://finnradloffsblog.wordpress.com/category/project2020/)
 * [Gijs](https://gijs.school.blog/)
 * [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
 * [Jayden](https://jaykdpc.wordpress.com/category/prj701/)
 * [Jonathan](https://jonosbitblog.wordpress.com/)
 * [Kashish](https://kashishpriya.wordpress.com/)
+* [Mariya](https://mariyajacob15.wordpress.com/)
 * [Pukar](https://pukardhakal880.wordpress.com)
+* [Sakar](https://wordpress.com/view/sakar974736820.wordpress.com)
+* [Sharad](prj702sharad.wordpress.com)
+* [Suhaib](https://res701suhaib.wordpress.com/)
+* [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
 * [Vishnu](https://badboyprj70x.wordpress.com/)
+* [Vishnupriya](https://prjvish.wordpress.com/)
+* [Vishvat](https://prj702vishvat.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
 #### The PRJ70x Class Blog 
@@ -29,6 +55,31 @@ This is the new RES701 Class Blog Space, built for ongoing communications during
 Moodle will act as the static course place holder for assignments, drop-boxes, etc.
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
+
+#### First Compulsory Session Semester 2, 2020 
+<small>August 20 2020</small>
+
+**NB Compulsory Attendance**
+
+Finally the first seminar session is happening - Thursday, August 20, 1-3 pm, Room A215.
+After a brief introduction from me, you will individuallybe presenting your project and your progress. Please remember that no no more than 5 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
+See you on Thursday :)
+
+**NB Compulsory Attendance**
+
+#### More about project approval
+<small>August 10 2020</small>
+
+Last Friday all students were notified of supervisor allocation. The way we are running the process this year, is that we allocate a
+supervisor first, and then you work with him/her to fine-tune the
+project. Therefore the supervisor will be the one who is communicating the approval with you.
+
+#### Project approval update
+<small>August 6 2020</small>
+
+Most of the proposals were uploaded from approval, Monday. The ones with extension were uploaded  Wednesday morning. You proposals were discussed in our Wednesday staff meeting. On Friday some students will be notified of approval status. The rest will follow on Monday.
+
+Please be aware that out of your officially timetabled PRJ70x classes, only 3 of them are compulsory. Others will be optional. You can see the list of planned sessions in Moodle. I will also always advertise an upcoming session in advance - here and in MS Teams.
 
 #### Welcome to Semester 2, 2020 
 <small>July 20 2020</small>
@@ -42,14 +93,6 @@ The way the information for this course is organised, is that corse descriptions
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
 Warm regards, Lars
-
-#### Information for Employers
-
-[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
-
-[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
-
-The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
 
 #### Useful Resources for Students
 
@@ -187,15 +230,4 @@ We have the second compulsory seminar, Friday the 29th at 11 am – 1 pm in A308
 <small>May 14 2020</small>
 
 Camille from SANITI is conducting this seminar. The Zoom link will be in the General PRJ70x Channel.
- 
-#### First Compulsory Session Semester 1, 2020 
-<small>May 1 2020</small>
-
-**NB Compulsory Attendance**
-
-Finally the first seminar session is happening.
-We will all meet here in the PRJ70x Team and after a brief introduction from me, you will be presenting your project and your progress, individually. Please remember that no no more than 5 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
-See you on Friday :)
-
-**NB Compulsory Attendance**
 -->
