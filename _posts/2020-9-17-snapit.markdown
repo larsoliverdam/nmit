@@ -2,7 +2,7 @@
 layout: post
 title:  SnapIT
 date:   2020-09-17 9:50:00 -1200
-image:  snap.png
+image:  snapit.png
 tags:   News Jobs
 ---
 
