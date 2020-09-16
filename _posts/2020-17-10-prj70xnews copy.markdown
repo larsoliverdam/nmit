@@ -1,0 +1,14 @@
+---
+layout: post
+title:  SnapIT
+date:   2020-09-17 9:50:00 -1200
+image:  snap.png
+tags:   News Jobs
+---
+
+**Interns during summer**
+
+SnapIT is looking for some undergrad interns for the summer. The focus is php/web develpment, front- and backend.
+Must be level 7 or higher.
+
+Please contact [Ali Kahwaji](Ali.Kahwaji@nmit.ac.nz) and or [Chris Rodley](chris@snapit.group)
