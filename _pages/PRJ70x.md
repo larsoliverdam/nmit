@@ -31,7 +31,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [David](https://myprojectblogs.wordpress.com/)
 * [Daniel](https://internshipjournal519455640.wordpress.com/)
 * [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
-* [Finn](https://finnradloffsblog.wordpress.com/category/project2020/)
+* [Finn](https://royalkiwi.github.io/KiwiBot3.0/)
 * [Gijs](https://gijs.school.blog/)
 * [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
 * [Jayden](https://jaykdpc.wordpress.com/category/prj701/)
