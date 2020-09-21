@@ -60,7 +60,7 @@ During this transition there might still be some interesting and/or relevant inf
 <small>September 24 2020</small>
 
 Next compulsory seminar session is happening - Thursday, September 24, 1-3 pm, Room A215.
-The purpose of this session is to prepare you for your report writing. 
+The purpose of this session is to prepare you for report writing. 
 There will be a combination of information from me, examples from previous students and a few exercises. 
 See you on Thursday :)
 
