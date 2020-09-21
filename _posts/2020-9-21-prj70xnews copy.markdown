@@ -10,7 +10,7 @@ tags:   News PRJ70x
 
 **NB Compulsory Attendance**
 
-Next compulsory seminar session is happening - Thursday, August 20, 1-3 pm, Room A215.
+Next compulsory seminar session is happening - Thursday, September 24, 1-3 pm, Room A215.
 The purpose of this session is to prepare you for your report writing. 
 There will be a combination of information from me, examples from previous students and a few exercises. 
 See you on Thursday :)

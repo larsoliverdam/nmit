@@ -56,6 +56,16 @@ Moodle will act as the static course place holder for assignments, drop-boxes, e
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
 
+#### Report Writing - Compulsory Session Semester 2 2020, Thursday, September 24, 1-3 pm, Room A215
+<small>September 24 2020</small>
+
+Next compulsory seminar session is happening - Thursday, September 24, 1-3 pm, Room A215.
+The purpose of this session is to prepare you for your report writing. 
+There will be a combination of information from me, examples from previous students and a few exercises. 
+See you on Thursday :)
+
+**NB Compulsory Attendance**
+
 #### First Compulsory Session Semester 2, 2020 
 <small>August 20 2020</small>
 
