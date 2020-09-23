@@ -61,7 +61,10 @@ During this transition there might still be some interesting and/or relevant inf
 
 Next compulsory seminar session is happening - Thursday, September 24, 1-3 pm, Room A215.
 The purpose of this session is to prepare you for report writing. 
-There will be a combination of information from me, examples from previous students and a few exercises. 
+There will be a combination of information from me, examples from previous students and a few exercises.
+
+**Resources are uploaded in MS Teams.**
+
 See you on Thursday :)
 
 **NB Compulsory Attendance**
