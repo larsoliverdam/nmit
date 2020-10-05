@@ -114,7 +114,11 @@ Camille from SANITI is conducting this seminar. The Zoom link will be in the Gen
 #### Third Compulsory Session Semester 2, 2020, Thursday, October 15, 1-3 pm, Room A215
 <small>October 5 2020</small>
 
+**NB Compulsory Attendance**
+
 We have the second compulsory seminar, Thursday the 15th of October at 1 pm – 3 pm in A215. Please be ready to make a micro presentation about your project and how it has developed and progressed. No slides, no formal stuff – just a couple of minutes of you talking and answering questions.
+
+**NB Compulsory Attendance**
 
 #### Report Writing - Compulsory Session Semester 2 2020, Thursday, September 24, 1-3 pm, Room A215
 <small>September 24 2020</small>
