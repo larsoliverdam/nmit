@@ -2,7 +2,7 @@
 layout: post
 title:  Second Compulsory Project Session
 date:   2020-10-05 15:15:00 -1200
-image:  07.jpg
+image:  11.jpg
 tags:   News PRJ70x
 ---
 **NB Compulsory Attendance**
