@@ -105,11 +105,14 @@ The following tutorials have been selected by my friend Klaas Breukel. He is tea
 * [Fonts that go together](https://www.youtube.com/watch?v=w2TqSuh3gTI)
 
 _Be creative!_
-### Job Seminar - Non Compulsory Session Semester 1, 2020 
-<small>May 14 2020</small>
 
-Camille from SANITI is conducting this seminar. The Zoom link will be in the General PRJ70x Channel.
 -->
+### Job Seminar Semester 2, 2020 Thursday October 29, 1.10 - 3 pm, Room A215
+<small>October 6 2020</small>
+
+**Non Compulsory Session**
+
+Cherie from SANITI is holding this seminar. Please note that the session starts 1.10 pm
 
 #### Third Compulsory Session Semester 2, 2020, Thursday, October 15, 1-3 pm, Room A215
 <small>October 5 2020</small>
