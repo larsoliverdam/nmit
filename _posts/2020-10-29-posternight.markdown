@@ -2,7 +2,7 @@
 layout: post
 title:  Invitation to IT Poster Session, Thursday 12th of November, 4-6.30 pm in G Block Foyer
 date:   2020-10-29 16:00:00 -1200
-image:  NMIT.jpg
+image:  b&w.jpg
 tags:   News PRJ70x
 ---
 
