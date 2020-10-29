@@ -56,10 +56,10 @@ Moodle will act as the static course place holder for assignments, drop-boxes, e
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 During this transition there might still be some interesting and/or relevant information on the [Old PRJ70x blog](https://prj701.wordpress.com/)
 
+#### Poster Creation - Non Compulsory Session Semester 2, 2020
+<small>October 29 2020</small>
 
-<!-- ### Poster Creation - Non Compulsory Session Semester 1, 2020
-
-The session will be on Friday the 12th of June, 1 am — 1 pm in A308. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
+The session will be on Thursday the 5th of November, 1 pm — 3 pm in A215. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
 
 We will just have a look at previous students’ posters, discuss design ideas and look at different tools to create your poster. If you are unable to come – look in this blog under 'Your Poster' and you can get inspiration from previous posters.
 
@@ -106,8 +106,7 @@ The following tutorials have been selected by my friend Klaas Breukel. He is tea
 
 _Be creative!_
 
--->
-### Job Seminar Semester 2, 2020 Thursday October 29, 1.10 - 3 pm, Room A215
+#### Job Seminar Semester 2, 2020 Thursday October 29, 1.10 - 3 pm, Room A215
 <small>October 6 2020</small>
 
 **Non Compulsory Session**
