@@ -10,4 +10,4 @@ This is the capstone project presentation event for BIT and GradDipIT students. 
 
 The event is organised as individual poster displays and demonstrations by the students, so you can both experience the diversity of IT studies at NMIT and discuss the challenges and achievements with the individual students.
 
-* [Official Invitation](https://www.nmit.ac.nz/news-article/show/it-poster-night-2020)
+* [Official Invitation and Event Registration](https://www.nmit.ac.nz/news-article/show/it-poster-night-2020)
