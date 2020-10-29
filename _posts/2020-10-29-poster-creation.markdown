@@ -11,4 +11,4 @@ My designer friend Klaas Breukel has promised to come in briefly in the beginnin
 
 Otherwise, we will just have a look at previous students’ posters, discuss design ideas and look at different tools to create your poster.
 
-Especially if you are unable to come – look in this blog under PRJ70x and read the most recent entry about the poster creation session.
+Especially if you are unable to attend – look in this blog under PRJ70x and read the most recent entry about the poster creation session.
