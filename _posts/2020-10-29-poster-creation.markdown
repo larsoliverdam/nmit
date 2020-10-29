@@ -6,7 +6,7 @@ image:  03.jpg
 tags:   News PRJ70x
 ---
 
-The session will be on Thursday the 5th of November, 1 pm — 3 pm in A215. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
+The session will be on Friday the 12th of June, 11 am — 1 pm in A308. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
 My designer friend Klaas Breukel has promised to come in briefly in the beginning of the session to tell us what real design is.
 
 Otherwise, we will just have a look at previous students’ posters, discuss design ideas and look at different tools to create your poster.
