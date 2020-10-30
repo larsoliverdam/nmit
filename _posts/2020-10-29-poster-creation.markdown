@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Poster Creation - Non Compulsory Session Semester 2, 2020
+title:  Poster Creation - Non Compulsory Session
 date:   2020-10-29 15:50:00 -1200
 image:  03.jpg
 tags:   News PRJ70x
