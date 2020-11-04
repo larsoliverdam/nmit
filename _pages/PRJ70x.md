@@ -58,7 +58,7 @@ The following tutorials have been selected by my friend Klaas Breukel. He is tea
 * [Visual hierarchy](https://www.reddit.com/r/web_design/comments/bzjjfr/visual_hierarchy_perfectly_illustrated/?st=jx552ru9&sh=fe7963b3)
 * [Graphic Design fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0&t=7s)
 * [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8&t=10s)
-* [Fonts that go together](https://www.youtube.com/watch?v=w2TqSuh3gTI)
+* [Fonts that go together](https://www.youtube.com/watch?v=jPi-ISY0BO0)
 
 _Be creative!_
 
