@@ -47,6 +47,48 @@ We are also in the process of building a new public site/platform to connect emp
 * [Vishvat](https://prj702vishvat.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
+#### Information for Employers
+
+[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
+
+[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
+
+The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
+
+#### Useful Resources for Students
+
+**Your Proposal**
+
+* [Proposal template](https://docs.google.com/document/d/102CHtLPQZwfHNMYLw4kcR8bvyOJGNZuPpnt-bsUSs_4/edit?usp=sharing)
+* [Workplace proposal](https://docs.google.com/document/d/1TYrZ0_R3p86VIgtpluj0gJoRtk1ZdLEhT0FW5-Wy3QU/edit?usp=sharing)
+
+**Your Report**
+
+* [Development Report Structure](https://docs.google.com/document/d/1LKncw2rny912JZegfynVDO0MbfD84ixv1vhRBWClYE0/edit?usp=sharing)
+* [Research Report Structure](https://docs.google.com/document/d/1jxDujxsE4u7NKzYB9dF6Dh8ZCSejrCZu-Hq3-g2XNG0/edit?usp=sharing)
+* [Work Placement Report Structure](https://docs.google.com/document/d/1LtkkekuobjDJOIpvbvDNZzNTj91U_Mc3ktv5afeBOYU/edit?usp=sharing)
+
+**Your Poster**
+
+* Posters from previous years can be found here below, along with links to Student Blogs/Journals
+* Poster examples from before 2020: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
+* [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
+* [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
+* [NMIT Logo files](/docs/img/NMIT_Logo.7z)
+
+#### Other Resources for Students
+
+* [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
+* [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
+
+#### Previous Projects
+
+You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.softlinkhosting.co.nz/liberty/opac/search.do?=BIT&=Project&=R&queryTerm=BIT%20project%20report&mode=BASIC&operator=AND&title=Title%20...%20enter%20here&publicationYear=Year%20From&yearTo=Year%20To&catalogAuthors=Author%20...%20enter%20here&publisher=Publisher%20...%20enter%20here&mainSubject=Subject%20...%20enter%20here&series=Series%20...%20enter%20here&limit=All&branch=All&resourceCollection=All&=undefined&modeRadio=KEYWORD&activeMenuItem=false) in the NMIT Library. Click the previous link and follow the guidelines below:
+
+![Basic Search](/docs/img/signinlibrary.png)
+
+![Specific Search](/docs/img/advanced.png)
+
 #### Poster Creation - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
 
@@ -96,48 +138,6 @@ The following tutorials have been selected by my friend Klaas Breukel. He is tea
 * [Fonts that go together](https://www.youtube.com/watch?v=jPi-ISY0BO0)
 
 _Be creative!_
-
-#### Information for Employers
-
-[Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
-
-[The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
-
-The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
-
-#### Useful Resources for Students
-
-**Your Proposal**
-
-* [Proposal template](https://docs.google.com/document/d/102CHtLPQZwfHNMYLw4kcR8bvyOJGNZuPpnt-bsUSs_4/edit?usp=sharing)
-* [Workplace proposal](https://docs.google.com/document/d/1TYrZ0_R3p86VIgtpluj0gJoRtk1ZdLEhT0FW5-Wy3QU/edit?usp=sharing)
-
-**Your Report**
-
-* [Development Report Structure](https://docs.google.com/document/d/1LKncw2rny912JZegfynVDO0MbfD84ixv1vhRBWClYE0/edit?usp=sharing)
-* [Research Report Structure](https://docs.google.com/document/d/1jxDujxsE4u7NKzYB9dF6Dh8ZCSejrCZu-Hq3-g2XNG0/edit?usp=sharing)
-* [Work Placement Report Structure](https://docs.google.com/document/d/1LtkkekuobjDJOIpvbvDNZzNTj91U_Mc3ktv5afeBOYU/edit?usp=sharing)
-
-**Your Poster**
-
-* Posters from previous years can be found here below, along with links to Student Blogs/Journals
-* Poster examples from before 2020: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
-* [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
-* [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
-* [NMIT Logo files](/docs/img/NMIT_Logo.7z)
-
-#### Other Resources for Students
-
-* [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
-* [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
-
-#### Previous Projects
-
-You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.softlinkhosting.co.nz/liberty/opac/search.do?=BIT&=Project&=R&queryTerm=BIT%20project%20report&mode=BASIC&operator=AND&title=Title%20...%20enter%20here&publicationYear=Year%20From&yearTo=Year%20To&catalogAuthors=Author%20...%20enter%20here&publisher=Publisher%20...%20enter%20here&mainSubject=Subject%20...%20enter%20here&series=Series%20...%20enter%20here&limit=All&branch=All&resourceCollection=All&=undefined&modeRadio=KEYWORD&activeMenuItem=false) in the NMIT Library. Click the previous link and follow the guidelines below:
-
-![Basic Search](/docs/img/signinlibrary.png)
-
-![Specific Search](/docs/img/advanced.png)
 
 #### Job Seminar Semester 2, 2020 Thursday October 29, 1.10 - 3 pm, Room A215
 <small>October 6 2020</small>
