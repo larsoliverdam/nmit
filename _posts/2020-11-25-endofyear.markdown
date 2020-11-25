@@ -3,7 +3,7 @@ layout: post
 title:  End of Year Celebration
 date:   2020-11-25 11:45:00 -1200
 image:  github.jpg
-tags:   News
+tags:   News Events
 ---
 **Date:  Monday 30th November**
 
