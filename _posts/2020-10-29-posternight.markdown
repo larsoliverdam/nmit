@@ -3,7 +3,7 @@ layout: post
 title:  Invitation to IT Poster Session, Thursday 12th of November, 4-6 pm in G Block Foyer
 date:   2020-10-29 16:00:00 -1200
 image:  b&w.jpg
-tags:   News PRJ70x
+tags:   News PRJ70x Events
 ---
 
 This is the capstone project presentation event for BIT and GradDipIT students. Friends, family, work placement contacts and everyone else who is interested in what IT students can accomplish, are very welcome.
