@@ -89,7 +89,7 @@ You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.s
 
 ![Specific Search](/docs/img/advanced.png)
 
-#### Poster Creation - Non Compulsory Session Semester 2, 2020
+<!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
 
 The session will be on Thursday the 5th of November, 1 pm — 3 pm in A215. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
@@ -204,10 +204,7 @@ The way the information for this course is organised, is that corse descriptions
 
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
-Warm regards, Lars
-
-#
-
+Warm regards, Lars -->
 
 <small> Semester 1 2020</small>
 
