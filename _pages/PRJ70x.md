@@ -169,8 +169,8 @@ The way the information for this course is organised, is that corse descriptions
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
 Warm regards, Lars -->
-#### Student blogs
-<small> Semester 2 2020</small>
+#### Semester 2 2020
+<small>Student blogs </small>
 
 * [Aileen](https://aepnmit2020.wordpress.com/)
 * [AJ](https://strategichotfairys.home.blog/)
@@ -204,31 +204,7 @@ Warm regards, Lars -->
 * [Vishvat](https://prj702vishvat.wordpress.com/)
 * [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
-<small> Semester 1 2020</small>
-
-* [Albert](https://labone.home.blog/category/prj702/)
-* [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
-* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
-* [Balaji](https://balajiprojectblog.wordpress.com/)
-* [Blake](https://blakedes501.wordpress.com/)
-* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
-* [Bryce](https://bjrowedev.github.io/projectjournal/)
-* [Daniel](https://danielmus701.wordpress.com/)
-* [Dura](https://duranthakalpage.home.blog/category/grad-dip-project/)
-* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
-* [Jasvir](https://jasvir32205620.wordpress.com/)
-* [Lisha](https://graduateprj702sem1.wordpress.com/)
-* [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
-* [Milton](https://prj701716603981.wordpress.com/)
-* [Oleg](https://sio2k.home.blog/prj701/)
-* [Reetinder](https://prj702project.wordpress.com/)
-* [Shivnagi](https://sknmit702.wordpress.com/)
-* [Sinhara](https://prj702sinharanmit.home.blog/)
-* [Zhengning](https://prj701553549552.wordpress.com)
-* [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
-
-#### Student posters
-<small> Semester 2 2020</small>
+<small>Student Posters</small>
 
 ![Poster](/docs/img/posters_s2_20/1.jpeg)
 
@@ -258,8 +234,31 @@ Warm regards, Lars -->
 * [Poster 24](/docs/img/posters_s2_20/24.pdf)
 * [Poster 25](/docs/img/posters_s2_20/25.pdf)
 * [Poster 26](/docs/img/posters_s2_20/26.pdf)
+#### Semester 1 2020
+<small>Student blogs</small>
 
-<small> Semester 1 2020</small>
+* [Albert](https://labone.home.blog/category/prj702/)
+* [Aline](https://alinesproject.wordpress.com/category/prj701-702/)
+* [Arjun](https://itproject2020arjunmadhavankutty.wordpress.com/)
+* [Balaji](https://balajiprojectblog.wordpress.com/)
+* [Blake](https://blakedes501.wordpress.com/)
+* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
+* [Bryce](https://bjrowedev.github.io/projectjournal/)
+* [Daniel](https://danielmus701.wordpress.com/)
+* [Dura](https://duranthakalpage.home.blog/category/grad-dip-project/)
+* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
+* [Jasvir](https://jasvir32205620.wordpress.com/)
+* [Lisha](https://graduateprj702sem1.wordpress.com/)
+* [Marcellus](http://itmarcellus.school.blog/category/prj702-it-project/)
+* [Milton](https://prj701716603981.wordpress.com/)
+* [Oleg](https://sio2k.home.blog/prj701/)
+* [Reetinder](https://prj702project.wordpress.com/)
+* [Shivnagi](https://sknmit702.wordpress.com/)
+* [Sinhara](https://prj702sinharanmit.home.blog/)
+* [Zhengning](https://prj701553549552.wordpress.com)
+* [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
+
+<small>Student posters</small>
 
 ![Poster 1](/docs/img/posters_s120/3.jpg)
 ![Poster 2](/docs/img/posters_s120/5.png)
