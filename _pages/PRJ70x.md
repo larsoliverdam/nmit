@@ -11,42 +11,6 @@ image: b&w.jpg
 This is the new RES701 Class Blog Space, built for ongoing communications during the course.
 Moodle will act as the static course place holder for assignments, drop-boxes, etc.
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
-
-#### Student blogs
-<small> Semester 2 2020</small>
-
-* [Aileen](https://aepnmit2020.wordpress.com/)
-* [AJ](https://strategichotfairys.home.blog/)
-* [Akhil](https://prj70x.wordpress.com/)
-* [Anushka](https://anushkazblog.wordpress.com/prj702/)
-* [Aparna](https://project2020133299552.wordpress.com/)
-* [Asha](https://ashasblog762071977.wordpress.com/)
-* [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
-* [Blake](https://blakedes501.wordpress.com/)
-* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
-* [Callum](https://callumschat.wordpress.com/)
-* [Chamara](https://projectswithlanka.blogspot.com/)
-* [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
-* [David](https://myprojectblogs.wordpress.com/)
-* [Daniel](https://internshipjournal519455640.wordpress.com/)
-* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
-* [Finn](https://royalkiwi.github.io/KiwiBot3.0/)
-* [Gijs](https://gijs.school.blog/)
-* [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
-* [Jayden](https://jaykdpc.wordpress.com/category/prj701/)
-* [Jonathan](https://jonosbitblog.wordpress.com/)
-* [Kashish](https://kashishpriya.wordpress.com/)
-* [Mariya](https://mariyajacob15.wordpress.com/)
-* [Pukar](https://pukardhakal880.wordpress.com)
-* [Sakar](https://wordpress.com/view/sakar974736820.wordpress.com)
-* [Sharad](prj702sharad.wordpress.com)
-* [Suhaib](https://res701suhaib.wordpress.com/)
-* [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
-* [Vishnu](https://badboyprj70x.wordpress.com/)
-* [Vishnupriya](https://prjvish.wordpress.com/)
-* [Vishvat](https://prj702vishvat.wordpress.com/)
-* [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
-
 #### Information for Employers
 
 [Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
@@ -205,6 +169,40 @@ The way the information for this course is organised, is that corse descriptions
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
 Warm regards, Lars -->
+#### Student blogs
+<small> Semester 2 2020</small>
+
+* [Aileen](https://aepnmit2020.wordpress.com/)
+* [AJ](https://strategichotfairys.home.blog/)
+* [Akhil](https://prj70x.wordpress.com/)
+* [Anushka](https://anushkazblog.wordpress.com/prj702/)
+* [Aparna](https://project2020133299552.wordpress.com/)
+* [Asha](https://ashasblog762071977.wordpress.com/)
+* [Asriel](https://docs.google.com/document/d/14C4YVEiw1vDYmwGiCBnHPaBl8tvxJaAC6nWUSHYtSpo/edit?usp=sharing)
+* [Blake](https://blakedes501.wordpress.com/)
+* [Brad](https://docs.google.com/document/d/1_c5_Au6K1OxIVoKiDn0wwDJqmcksLaiPpMOd55KNwbY/edit?usp=sharing)
+* [Callum](https://callumschat.wordpress.com/)
+* [Chamara](https://projectswithlanka.blogspot.com/)
+* [Corrina](https://github.com/Corrina-Busby/expert-eureka/wiki)
+* [David](https://myprojectblogs.wordpress.com/)
+* [Daniel](https://internshipjournal519455640.wordpress.com/)
+* [Erik](https://docs.google.com/document/d/1FH8fRThoIPZuSb5glxqKOrOWr0n9tQafczZT_2CrinA)
+* [Finn](https://royalkiwi.github.io/KiwiBot3.0/)
+* [Gijs](https://gijs.school.blog/)
+* [Jason](https://github.com/Jason-MacDonald/PRJ7-Project/wiki/Dev-Journal)
+* [Jayden](https://jaykdpc.wordpress.com/category/prj701/)
+* [Jonathan](https://jonosbitblog.wordpress.com/)
+* [Kashish](https://kashishpriya.wordpress.com/)
+* [Mariya](https://mariyajacob15.wordpress.com/)
+* [Pukar](https://pukardhakal880.wordpress.com)
+* [Sakar](https://wordpress.com/view/sakar974736820.wordpress.com)
+* [Sharad](prj702sharad.wordpress.com)
+* [Suhaib](https://res701suhaib.wordpress.com/)
+* [Sujani](https://learntogether511671192.wordpress.com/category/prj702/)
+* [Vishnu](https://badboyprj70x.wordpress.com/)
+* [Vishnupriya](https://prjvish.wordpress.com/)
+* [Vishvat](https://prj702vishvat.wordpress.com/)
+* [Zaihong](https://shizaihong.wordpress.com/category/prj701/)
 
 <small> Semester 1 2020</small>
 
@@ -230,6 +228,37 @@ Warm regards, Lars -->
 * [Wenjie-Li](http://liwenjiesilver.home.blog/category/prj701/)
 
 #### Student posters
+<small> Semester 2 2020</small>
+
+![Poster](/docs/img/posters_s2_20/1.jpeg)
+
+* [Poster 1](/docs/img/posters_s2_20/1.pdf)
+* [Poster 2](/docs/img/posters_s2_20/2.pdf)
+* [Poster 3](/docs/img/posters_s2_20/3.pdf)
+* [Poster 4](/docs/img/posters_s2_20/4.pdf)
+* [Poster 5](/docs/img/posters_s2_20/5.pdf)
+* [Poster 6](/docs/img/posters_s2_20/6.pdf)
+* [Poster 7](/docs/img/posters_s2_20/7.pdf)
+* [Poster 8](/docs/img/posters_s2_20/8.pdf)
+* [Poster 9](/docs/img/posters_s2_20/9.pdf)
+* [Poster 10](/docs/img/posters_s2_20/10.pdf)
+* [Poster 11](/docs/img/posters_s2_20/11.pdf)
+* [Poster 12](/docs/img/posters_s2_20/12.pdf)
+* [Poster 13](/docs/img/posters_s2_20/13.pdf)
+* [Poster 14](/docs/img/posters_s2_20/14.pdf)
+* [Poster 15](/docs/img/posters_s2_20/15.pdf)
+* [Poster 16](/docs/img/posters_s2_20/16.pdf)
+* [Poster 17](/docs/img/posters_s2_20/17.pdf)
+* [Poster 18](/docs/img/posters_s2_20/18.pdf)
+* [Poster 19](/docs/img/posters_s2_20/19.pdf)
+* [Poster 20](/docs/img/posters_s2_20/20.pdf)
+* [Poster 21](/docs/img/posters_s2_20/21.pdf)
+* [Poster 22](/docs/img/posters_s2_20/22.pdf)
+* [Poster 23](/docs/img/posters_s2_20/23.pdf)
+* [Poster 24](/docs/img/posters_s2_20/24.pdf)
+* [Poster 25](/docs/img/posters_s2_20/25.pdf)
+* [Poster 26](/docs/img/posters_s2_20/26.pdf)
+
 <small> Semester 1 2020</small>
 
 ![Poster 1](/docs/img/posters_s120/3.jpg)
