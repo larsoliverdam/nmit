@@ -2,7 +2,7 @@
 layout: page
 title: PRJ70x
 permalink: /PRJ70x/
-image: b&w.jpg
+image: 36.jpg
 ---
 
 #### The PRJ70x Class Blog 
