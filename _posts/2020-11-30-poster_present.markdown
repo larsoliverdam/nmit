@@ -5,7 +5,7 @@ date:   2020-12-1 20:00:00 -1200
 image:  36.jpg
 tags:   News PRJ70x Events
 ---
-<!-- 
+
 ![Picture 1](/docs/img/pictures_s2_20/1.jpg)
 ![Picture 2](/docs/img/pictures_s2_20/2.jpg)
 ![Picture 3](/docs/img/pictures_s2_20/3.jpg)
@@ -43,4 +43,4 @@ tags:   News PRJ70x Events
 ![Picture 35](/docs/img/pictures_s2_20/35.jpg)
 ![Picture 36](/docs/img/pictures_s2_20/36.jpg)
 ![Picture 37](/docs/img/pictures_s2_20/37.jpg)
-![Picture 38](/docs/img/pictures_s2_20/38.jpg) -->
+![Picture 38](/docs/img/pictures_s2_20/38.jpg)
