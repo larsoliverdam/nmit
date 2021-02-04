@@ -10,6 +10,7 @@ image: 36.jpg
 This is the PRJ70x Class Blog Space. Learning resources will all be posted here instead of Moodle. MS Teams will be used for daily communication and quick sharing of ideas and instructions. Moodle will only act as the static course place holder for assignments, drop-boxes, etc.
 
 We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
+
 #### Information for Employers
 
 [Information about work placements](https://docs.google.com/document/d/14qwiR31bcNPN71qNiiP12vGPh1oDoaAcJSpzzCGkW34/edit?usp=sharing) – brief description of work placement procedures and expectations
@@ -17,40 +18,6 @@ We are also in the process of building a new public site/platform to connect emp
 [The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
 
 The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
-
-#### Useful Resources for Students
-
-**Your Proposal**
-
-* [Proposal template](https://docs.google.com/document/d/102CHtLPQZwfHNMYLw4kcR8bvyOJGNZuPpnt-bsUSs_4/edit?usp=sharing)
-* [Workplace proposal](https://docs.google.com/document/d/1TYrZ0_R3p86VIgtpluj0gJoRtk1ZdLEhT0FW5-Wy3QU/edit?usp=sharing)
-
-**Your Report**
-
-* [Development Report Structure](https://docs.google.com/document/d/1LKncw2rny912JZegfynVDO0MbfD84ixv1vhRBWClYE0/edit?usp=sharing)
-* [Research Report Structure](https://docs.google.com/document/d/1jxDujxsE4u7NKzYB9dF6Dh8ZCSejrCZu-Hq3-g2XNG0/edit?usp=sharing)
-* [Work Placement Report Structure](https://docs.google.com/document/d/1LtkkekuobjDJOIpvbvDNZzNTj91U_Mc3ktv5afeBOYU/edit?usp=sharing)
-
-**Your Poster**
-
-* Posters from previous years can be found here below, along with links to Student Blogs/Journals
-* Poster examples from before 2020: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
-* [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
-* [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
-* [NMIT Logo files](/docs/img/NMIT_Logo.7z)
-
-#### Other Resources for Students
-
-* [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
-* [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
-
-#### Previous Projects
-
-You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.softlinkhosting.co.nz/liberty/opac/search.do?=BIT&=Project&=R&queryTerm=BIT%20project%20report&mode=BASIC&operator=AND&title=Title%20...%20enter%20here&publicationYear=Year%20From&yearTo=Year%20To&catalogAuthors=Author%20...%20enter%20here&publisher=Publisher%20...%20enter%20here&mainSubject=Subject%20...%20enter%20here&series=Series%20...%20enter%20here&limit=All&branch=All&resourceCollection=All&=undefined&modeRadio=KEYWORD&activeMenuItem=false) in the NMIT Library. Click the previous link and follow the guidelines below:
-
-![Basic Search](/docs/img/signinlibrary.png)
-
-![Specific Search](/docs/img/advanced.png)
 
 <!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
@@ -156,18 +123,55 @@ Most of the proposals were uploaded from approval, Monday. The ones with extensi
 
 Please be aware that out of your officially timetabled PRJ70x classes, only 3 of them are compulsory. Others will be optional. You can see the list of planned sessions in Moodle. I will also always advertise an upcoming session in advance - here and in MS Teams.
 
-#### Welcome to Semester 2, 2020 
-<small>July 20 2020</small>
+#### Welcome to Semester 1, 2021
+<small>February 2021</small>
+-->
 
-Welcome to semester 2, 2020. I am Lars, and I will be the coordinator for the Project Paper.
+Welcome to Semester 1, 2021. I am Lars, and I will be the coordinator for the Project Paper.
 
-We are having our first session for student new to the paper on Thursday, 30th of July, 1 pm - 3 pm in A215. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
+We are having our first session for student new to the paper on Friday, 26th of February, 11 am - 1 pm in L217. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
 
-The way the information for this course is organised, is that corse descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This Jekyll blog is our dynamic communication interface – including tips, links, guides and information about previous projects.
+The way the information for this course is organised, is that corse descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This Jekyll blog is the place for tips, links, guides and information about previous projects.
+The PRJ70x MS Teams Group is our dynamic communication interface.
 
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
-Warm regards, Lars -->
+Warm regards, Lars 
+
+#### Useful Resources for Students
+
+**Your Proposal**
+
+* [Proposal template](https://docs.google.com/document/d/102CHtLPQZwfHNMYLw4kcR8bvyOJGNZuPpnt-bsUSs_4/edit?usp=sharing)
+* [Workplace proposal](https://docs.google.com/document/d/1TYrZ0_R3p86VIgtpluj0gJoRtk1ZdLEhT0FW5-Wy3QU/edit?usp=sharing)
+
+**Your Report**
+
+* [Development Report Structure](https://docs.google.com/document/d/1LKncw2rny912JZegfynVDO0MbfD84ixv1vhRBWClYE0/edit?usp=sharing)
+* [Research Report Structure](https://docs.google.com/document/d/1jxDujxsE4u7NKzYB9dF6Dh8ZCSejrCZu-Hq3-g2XNG0/edit?usp=sharing)
+* [Work Placement Report Structure](https://docs.google.com/document/d/1LtkkekuobjDJOIpvbvDNZzNTj91U_Mc3ktv5afeBOYU/edit?usp=sharing)
+
+**Your Poster**
+
+* Posters from previous years can be found here below, along with links to Student Blogs/Journals
+* Poster examples from before 2020: [2019 Semester 2](https://prj701.wordpress.com/previous-projects/2019-semester-2/), [2019 Semester 1](https://prj701.wordpress.com/previous-projects/2019-semester-1/), [2018 Semester 1 & 2](https://prj701.wordpress.com/previous-projects/previous-projects-2018/)
+* [Creating A1 poster (video)](https://youtu.be/c1iEaTJ3czk)
+* [Poster design tips](http://lti.lse.ac.uk/poster-design-tips-2/)
+* [NMIT Logo files](/docs/img/NMIT_Logo.7z)
+
+#### Other Resources for Students
+
+* [General research report guidelines](https://docs.google.com/document/d/1aMXOKx8RN5_uqy3r2zzk6uZBD0uvTB3YHiH1DM4ljW0/edit?usp=sharing)
+* [Mistakes to avoid when you are writing a report](https://researchwhisperer.org/2013/10/22/scientific-writing-mistakes/)
+
+#### Previous Projects
+
+You can find (almost) all of the previous [BIT/GradDipIT reports](https://nmit.softlinkhosting.co.nz/liberty/opac/search.do?=BIT&=Project&=R&queryTerm=BIT%20project%20report&mode=BASIC&operator=AND&title=Title%20...%20enter%20here&publicationYear=Year%20From&yearTo=Year%20To&catalogAuthors=Author%20...%20enter%20here&publisher=Publisher%20...%20enter%20here&mainSubject=Subject%20...%20enter%20here&series=Series%20...%20enter%20here&limit=All&branch=All&resourceCollection=All&=undefined&modeRadio=KEYWORD&activeMenuItem=false) in the NMIT Library. Click the previous link and follow the guidelines below:
+
+![Basic Search](/docs/img/signinlibrary.png)
+
+![Specific Search](/docs/img/advanced.png)
+
 #### Semester 2 2020
 <small>Student blogs </small>
 
