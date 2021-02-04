@@ -122,10 +122,10 @@ project. Therefore the supervisor will be the one who is communicating the appro
 Most of the proposals were uploaded from approval, Monday. The ones with extension were uploaded  Wednesday morning. You proposals were discussed in our Wednesday staff meeting. On Friday some students will be notified of approval status. The rest will follow on Monday.
 
 Please be aware that out of your officially timetabled PRJ70x classes, only 3 of them are compulsory. Others will be optional. You can see the list of planned sessions in Moodle. I will also always advertise an upcoming session in advance - here and in MS Teams.
+-->
 
 #### Welcome to Semester 1, 2021
 <small>February 2021</small>
--->
 
 Welcome to Semester 1, 2021. I am Lars, and I will be the coordinator for the Project Paper.
 
