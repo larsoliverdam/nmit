@@ -131,8 +131,8 @@ Welcome to Semester 1, 2021. I am Lars, and I will be the coordinator for the Pr
 
 We are having our first session for student new to the paper on Friday, 26th of February, 11 am - 1 pm in L217. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
 
-The way the information for this course is organised, is that corse descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This Jekyll blog is the place for tips, links, guides and information about previous projects.
-The PRJ70x MS Teams Group is our dynamic communication interface.
+The way the information for this course is organised, is that course descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This Jekyll blog is the place for tips, links, guides and information about previous projects. 
+This semester most of the students will be studying online from China. The communication and the time difference will surely be a challenge, so I ask all of you for not only to be understanding, but please also to give me immediate feedback if/when something doesn’t work for you. Feedback, instant upload of material and daily communication is happening with MS Teams in our PRJ70x Team. 
 
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
