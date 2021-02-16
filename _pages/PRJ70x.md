@@ -5,11 +5,9 @@ permalink: /PRJ70x/
 image: 36.jpg
 ---
 #### The PRJ70x Class Blog 
-<small>February 2020</small>
+<small>February 2021</small>
 
 This is the PRJ70x Class Blog Space. Learning resources will all be posted here instead of Moodle. MS Teams will be used for daily communication and quick sharing of ideas and instructions. Moodle will only act as the static course place holder for assignments, drop-boxes, etc.
-
-We are also in the process of building a new public site/platform to connect employers and students for work placements, job opportunities, etc. There will also be information for employers - and other interested parties - regarding placement procedures, previous projects...
 
 #### Information for Employers
 
