@@ -127,7 +127,7 @@ Please be aware that out of your officially timetabled PRJ70x classes, only 3 of
 
 Welcome to Semester 1, 2021. I am Lars, and I will be the coordinator for the Project Paper.
 
-We are having our first session for student new to the paper on Friday, 26th of February, 11 am - 1 pm in L217. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
+We are having our first session for student new to the paper on Friday, 26th of February, 11 am - 1 pm in A212. Everyone who currently enrolled in PRJ701/702 and/or already working on a project should attend, so we are sure that all project students meet and share information, questions and experiences.
 
 The way the information for this course is organised, is that course descriptions, assessment schedules, assessment guidelines, drop boxes, etc. – in short all static official information – is sitting on the Moodle Site. This Jekyll blog is the place for tips, links, guides and information about previous projects. 
 This semester most of the students will be studying online from China. The communication and the time difference will surely be a challenge, so I ask all of you to not only to be understanding, but also to give me immediate feedback if/when something doesn’t work for you. Feedback, instant upload of material and daily communication is happening with MS Teams in our PRJ70x Team.
