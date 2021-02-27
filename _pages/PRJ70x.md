@@ -16,6 +16,11 @@ This is the PRJ70x Class Blog Space. Learning resources will all be posted here 
 [The NMIT – Industry Focused IT Student Project](https://docs.google.com/document/d/1JICsHf8kkRXh4fAFaPI7MvCKorE0wetjXzyoQVyGYik/edit?usp=sharing) is a form that specifies the work placement project. The workplace contact/employer is filling it in.
 
 The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9eC9zQRsy6oc27GhJoz8oIro/edit?usp=sharing) is the assessment of the student performance at the workplace by the contact person/employer. The score from this assessment replaces the supervisor score in the project report (20%).
+#### Semester 1 2021
+<small>Student blogs </small>
+
+* [Shujie](https://slybloghome.wordpress.com/2021/02/26/prj701-blog1-project-and-graduate-diploma-projectprj/)
+
 
 <!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
