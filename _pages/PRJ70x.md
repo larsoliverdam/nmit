@@ -20,6 +20,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 <small>Student blogs </small>
 
 * [Shujie](https://slybloghome.wordpress.com/2021/02/26/prj701-blog1-project-and-graduate-diploma-projectprj/)
+* [Yude](https://huangyude.wordpress.com/2021/02/27/first-blog-for-prj-701/)
 
 
 <!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
