@@ -20,20 +20,20 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 <small>Student blogs </small>
 
 * [Ao](https://service-7pl8fikh-1305080641.bj.apigw.tencentcs.com/index.php/2021/03/04/week-1/)
-* [Destinnie]
+* [Destinnie]()
 * [Jiayu](http://www.jiayuwan88nmit.com/?page_id=31)
 * [Jieni](https://jienisyd701.wordpress.com)
-* [Luke]
-* [Mahir]
+* [Luke]()
+* [Mahir]()
 * [Qi](https://jinqi97nmit.wordpress.com/)
 * [Shujie](https://slybloghome.wordpress.com/2021/02/26/prj701-blog1-project-and-graduate-diploma-projectprj/)
 * [Tiewei](https://tieweizhures701.wordpress.com/)
 * [Xiao](https://xiaofu1106nmit.wordpress.com/)
 * [Yuchen](https://chunchun1205.wordpress.com/)
 * [Yude](https://huangyude.wordpress.com/2021/02/27/first-blog-for-prj-701/)
-* [Yuteng]
+* [Yuteng]()
 * [Yue](https://weihuansyd701.wordpress.com/)
-* [Zach]
+* [Zach]()
 * [Zoey](https://binghanzhu.wordpress.com/)
 
 <!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
