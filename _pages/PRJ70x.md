@@ -19,9 +19,6 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 #### Semester 1 2021
 <small>Student blogs </small>
 
-
-
-
 * [Ao](https://service-7pl8fikh-1305080641.bj.apigw.tencentcs.com/index.php/2021/03/04/week-1/)
 * [Destinnie]
 * [Jiayu](http://www.jiayuwan88nmit.com/?page_id=31)
@@ -38,7 +35,6 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Yue](https://weihuansyd701.wordpress.com/)
 * [Zach]
 * [Zoey](https://binghanzhu.wordpress.com/)
-
 
 <!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
