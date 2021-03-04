@@ -33,7 +33,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Yude](https://huangyude.wordpress.com/2021/02/27/first-blog-for-prj-701/)
 * [Yuteng]()
 * [Yue](https://weihuansyd701.wordpress.com/)
-* [Zach]()
+* [Zach](https://hengliangzhao666.wordpress.com/)
 * [Zoey](https://binghanzhu.wordpress.com/)
 
 <!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
