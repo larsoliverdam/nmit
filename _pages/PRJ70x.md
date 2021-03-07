@@ -20,7 +20,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 <small>Student blogs </small>
 
 * [Ao](https://service-7pl8fikh-1305080641.bj.apigw.tencentcs.com/index.php/2021/03/04/week-1/)
-* [Destinnie]()
+* [Destinnie](https://informationtech701.wordpress.com/category/prj701/)
 * [Jiayu](http://www.jiayuwan88nmit.com/?page_id=31)
 * [Jieni](https://jienisyd701.wordpress.com)
 * [Luke]()
