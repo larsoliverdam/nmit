@@ -153,7 +153,7 @@ This semester most of the students will be studying online from China. The commu
 
 Please take time to have a good read through the course documents.  The course can appear complicated at first sight – so it is important that you get an overview of the structure before we meet.
 
-Warm regards, Lars 
+Warm regards, Lars
 
 #### Useful Resources for Students
 
