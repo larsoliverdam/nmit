@@ -24,7 +24,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Jiayu](http://www.jiayuwan88nmit.com/?page_id=31)
 * [Jieni](https://jienisyd701.wordpress.com)
 * [Luke]()
-* [Mahir]()
+* [Mahir](https://blogsofking.wordpress.com/prj70x/)
 * [Qi](https://jinqi97nmit.wordpress.com/)
 * [Shujie](https://slybloghome.wordpress.com/2021/02/26/prj701-blog1-project-and-graduate-diploma-projectprj/)
 * [Tiewei](https://tieweizhures701.wordpress.com/)
