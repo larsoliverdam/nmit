@@ -30,7 +30,7 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Tiewei](https://tieweizhures701.wordpress.com/)
 * [Xiao](https://xiaofu1106nmit.wordpress.com/)
 * [Yuchen](https://chunchun1205.wordpress.com/)
-* [Yude](https://huangyude.wordpress.com/2021/02/27/first-blog-for-prj-701/)
+* [Yude](https://huangyude.wordpress.com/)
 * [Yuteng](https://yutengzheng0312.wordpress.com/)
 * [Yue](https://weihuansyd701.wordpress.com/)
 * [Zach](https://hengliangzhao666.wordpress.com/)
