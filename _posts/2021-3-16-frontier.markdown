@@ -10,4 +10,4 @@ Frontier Media is currently looking for another frontend developer (part-time). 
 
 It’s not a software development role, but for Web Design - someone who can competently write HTML, CSS and JavaScript / jQuery to work with our team making template based custom websites, based in our Nelson office.
 
-[Here is the job advert.](FrontierMedia.nz/jobs)
+[Here is the job advert.](https://frontiermedia.nz/jobs)
