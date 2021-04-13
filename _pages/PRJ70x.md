@@ -36,7 +36,9 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Zach](https://hengliangzhao666.wordpress.com/)
 * [Zoey](https://binghanzhu.wordpress.com/)
 
-<!-- #### Poster Creation - Non Compulsory Session Semester 2, 2020
+<!-- 
+
+####  - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
 
 The session will be on Thursday the 5th of November, 1 pm — 3 pm in A215. You might be busy with the last details in your report – or you are ready to celebrate a job well done? In any scenario, the session is there.
@@ -77,14 +79,6 @@ _Big – Bold – Simple – Explanatory_
 
 I think that designs based mainly on diagrams and models, without much text, achieve that.
 
-The following tutorials have been selected by my friend Klaas Breukel. He is teaching design and CGI here at NMIT.
-
-* [Visual hierarchy](https://www.reddit.com/r/web_design/comments/bzjjfr/visual_hierarchy_perfectly_illustrated/?st=jx552ru9&sh=fe7963b3)
-* [Graphic Design fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0&t=7s)
-* [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8&t=10s)
-* [Fonts that go together](https://www.youtube.com/watch?v=jPi-ISY0BO0)
-
-_Be creative!_
 
 #### Job Seminar Semester 2, 2020 Thursday October 29, 1.10 - 3 pm, Room A215
 <small>October 6 2020</small>
@@ -114,19 +108,32 @@ There will be a combination of information from me, examples from previous stude
 See you on Thursday :)
 
 **NB Compulsory Attendance**
-
-#### First Compulsory Session Semester 2, 2020 
-<small>August 20 2020</small>
-
-**NB Compulsory Attendance**
-
-Finally the first seminar session is happening - Thursday, August 20, 1-3 pm, Room A215.
-After a brief introduction from me, you will individuallybe presenting your project and your progress. Please remember that no no more than 5 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
-See you on Thursday :)
+-->
+#### Design- & First Compulsory Session Semester 1, 2021
+<small>May 16 2021</small>
 
 **NB Compulsory Attendance**
 
-#### More about project approval
+Finally the first seminar session is happening - Friday, May 16, 11 am -1 pm, Room A212.
+
+After a brief introduction from me, our inhouse expert designer, Klaasz Breukel will hand out designing advise. He is teaching design and CGI here at NMIT. 
+The advise will come in handy when you eventually are going to design your poster - if not before.
+
+After that, you will individually be presenting your project and your progress. Please remember that no no more than 3-4 min is allocated to each student. Less is perfectly OK. Also, it is an informal presentation, so no slides are needed - you can if you like, though. Main thing is that we get a clear picture of what you are doing in your project and how it is going.
+See you on Friday :)
+
+The following tutorials have been selected by Klaasz:
+
+* [Visual hierarchy](https://www.reddit.com/r/web_design/comments/bzjjfr/visual_hierarchy_perfectly_illustrated/?st=jx552ru9&sh=fe7963b3)
+* [Graphic Design fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0&t=7s)
+* [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8&t=10s)
+* [Fonts that go together](https://www.youtube.com/watch?v=jPi-ISY0BO0)
+
+_Be creative!_
+
+**NB Compulsory Attendance**
+
+<!-- #### More about project approval
 <small>August 10 2020</small>
 
 Last Friday all students were notified of supervisor allocation. The way we are running the process this year, is that we allocate a
@@ -138,8 +145,8 @@ project. Therefore the supervisor will be the one who is communicating the appro
 
 Most of the proposals were uploaded from approval, Monday. The ones with extension were uploaded  Wednesday morning. You proposals were discussed in our Wednesday staff meeting. On Friday some students will be notified of approval status. The rest will follow on Monday.
 
-Please be aware that out of your officially timetabled PRJ70x classes, only 3 of them are compulsory. Others will be optional. You can see the list of planned sessions in Moodle. I will also always advertise an upcoming session in advance - here and in MS Teams.
--->
+Please be aware that out of your officially timetabled PRJ70x classes, only 3 of them are compulsory. Others will be optional. You can see the list of planned sessions in Moodle. I will also always advertise an upcoming session in advance - here and in MS Teams. -->
+
 
 #### Welcome to Semester 1, 2021
 <small>February 2021</small>
