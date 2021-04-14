@@ -1,9 +1,0 @@
----
-layout: post
-title:  Tech Crowd 2021
-date:   2021-3-19 15:45:00 -1200
-image:  tech.png
-tags:   Events GitHub
----
-
-[Upcoming meetup](https://www.meetup.com/Nelson-HTML5-CSS-JSMeetup-Group/events/276977446/)
