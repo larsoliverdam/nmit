@@ -36,8 +36,6 @@ The [Workplace Report](https://docs.google.com/document/d/1Vgzhd4G7COfXxTR9axB9e
 * [Zach](https://hengliangzhao666.wordpress.com/)
 * [Zoey](https://binghanzhu.wordpress.com/)
 
-<!-- 
-
 ####  - Non Compulsory Session Semester 2, 2020
 <small>October 29 2020</small>
 
@@ -108,7 +106,7 @@ There will be a combination of information from me, examples from previous stude
 See you on Thursday :)
 
 **NB Compulsory Attendance**
--->
+
 #### Design- & First Compulsory Session Semester 1, 2021
 <small>May 16 2021</small>
 
